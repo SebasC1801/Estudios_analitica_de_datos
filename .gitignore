@@ -1,0 +1,7 @@
+# Ignorar carpetas llamadas "ambiente" en cualquier nivel del proyecto
+ambiente/
+**/ambiente/
+
+# Ignorar la carpeta .git (aunque Git la ignora por defecto, esto asegura subcarpetas)
+.git/
+**/.git/

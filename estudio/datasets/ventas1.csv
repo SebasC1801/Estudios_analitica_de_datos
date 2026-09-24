@@ -1,0 +1,51 @@
+id_venta,fecha,id_cliente,nombre_cliente,ciudad,categoria,producto,cantidad,precio_unitario,metodo_pago,vendedor,estado
+1,2026-01-05,C001,Ana Torres,Pasto,Tecnologia,Mouse Logitech,2,45000,Tarjeta,Carlos,Completada
+2,2026-01-07,C002,Luis Gomez,Bogota,Hogar,Licuadora Oster,1,180000,Efectivo,Maria,Completada
+3,2026-01-08,C003,Camila Ruiz,Cali,Tecnologia,Teclado Redragon,1,120000,Nequi,Carlos,Completada
+4,2026-01-10,C001,Ana Torres,Pasto,Hogar,Cafetera,1,95000,Nequi,Maria,Completada
+5,2026-01-12,C004,Juan Perez,Medellin,Tecnologia,Monitor Samsung,2,750000,Tarjeta,Carlos,Completada
+6,2026-01-15,C005,Sofia Martinez,Bogota,Oficina,Silla ergonomica,1,520000,Transferencia,Pedro,Completada
+7,2026-01-18,C006,Diego Castro,Pasto,Tecnologia,Audifonos Sony,3,210000,Tarjeta,Carlos,Completada
+8,2026-01-20,C002,Luis Gomez,Bogota,Hogar,Aspiradora,1,320000,Efectivo,Maria,Cancelada
+9,2026-01-22,C007,Laura Rodriguez,Cali,Oficina,Escritorio,1,680000,Transferencia,Pedro,Completada
+10,2026-01-25,C003,Camila Ruiz,Cali,Tecnologia,Webcam Logitech,2,160000,Nequi,Carlos,Completada
+11,2026-02-02,C008,Mateo Sanchez,Medellin,Tecnologia,Portatil Lenovo,1,2800000,Tarjeta,Carlos,Completada
+12,2026-02-04,C001,Ana Torres,Pasto,Oficina,Cuaderno,5,12000,Efectivo,Pedro,Completada
+13,2026-02-06,C009,Valentina Lopez,Bogota,Hogar,Microondas,1,450000,Tarjeta,Maria,Completada
+14,2026-02-08,C004,Juan Perez,Medellin,Tecnologia,SSD 1TB,2,380000,Transferencia,Carlos,Completada
+15,2026-02-10,C010,Santiago Moreno,Cali,Tecnologia,Memoria RAM 16GB,2,190000,Nequi,Carlos,Completada
+16,2026-02-12,C005,Sofia Martinez,Bogota,Oficina,Lampara LED,3,75000,Efectivo,Pedro,Completada
+17,2026-02-15,C006,Diego Castro,Pasto,Tecnologia,Teclado Redragon,1,120000,Tarjeta,Carlos,Cancelada
+18,2026-02-18,C007,Laura Rodriguez,Cali,Hogar,Freidora de aire,1,390000,Nequi,Maria,Completada
+19,2026-02-20,C008,Mateo Sanchez,Medellin,Tecnologia,Monitor Samsung,1,750000,Tarjeta,Carlos,Completada
+20,2026-02-22,C002,Luis Gomez,Bogota,Oficina,Archivador,2,210000,Transferencia,Pedro,Completada
+21,2026-03-01,C009,Valentina Lopez,Bogota,Tecnologia,Mouse Logitech,4,45000,Nequi,Carlos,Completada
+22,2026-03-03,C010,Santiago Moreno,Cali,Hogar,Cafetera,2,95000,Efectivo,Maria,Completada
+23,2026-03-05,C001,Ana Torres,Pasto,Tecnologia,Audifonos Sony,1,210000,Tarjeta,Carlos,Completada
+24,2026-03-08,C003,Camila Ruiz,Cali,Oficina,Silla ergonomica,2,520000,Transferencia,Pedro,Completada
+25,2026-03-10,C004,Juan Perez,Medellin,Tecnologia,Portatil Lenovo,1,2800000,Tarjeta,Carlos,Completada
+26,2026-03-12,C005,Sofia Martinez,Bogota,Hogar,Aspiradora,1,320000,Nequi,Maria,Completada
+27,2026-03-15,C006,Diego Castro,Pasto,Oficina,Escritorio,1,680000,Efectivo,Pedro,Completada
+28,2026-03-18,C007,Laura Rodriguez,Cali,Tecnologia,Webcam Logitech,3,160000,Tarjeta,Carlos,Completada
+29,2026-03-20,C008,Mateo Sanchez,Medellin,Hogar,Microondas,1,450000,Transferencia,Maria,Completada
+30,2026-03-22,C009,Valentina Lopez,Bogota,Tecnologia,SSD 1TB,1,380000,Nequi,Carlos,Completada
+31,2026-04-02,C010,Santiago Moreno,Cali,Tecnologia,Monitor Samsung,2,750000,Tarjeta,Carlos,Completada
+32,2026-04-04,C001,Ana Torres,Pasto,Oficina,Lampara LED,2,75000,Efectivo,Pedro,Completada
+33,2026-04-06,C002,Luis Gomez,Bogota,Hogar,Licuadora Oster,1,180000,Nequi,Maria,Completada
+34,2026-04-08,C003,Camila Ruiz,Cali,Tecnologia,Memoria RAM 16GB,2,190000,Tarjeta,Carlos,Completada
+35,2026-04-10,C004,Juan Perez,Medellin,Oficina,Archivador,1,210000,Transferencia,Pedro,Completada
+36,2026-04-12,C005,Sofia Martinez,Bogota,Tecnologia,Portatil Lenovo,1,2800000,Tarjeta,Carlos,Completada
+37,2026-04-15,C006,Diego Castro,Pasto,Hogar,Freidora de aire,1,390000,Nequi,Maria,Completada
+38,2026-04-18,C007,Laura Rodriguez,Cali,Tecnologia,Mouse Logitech,2,45000,Efectivo,Carlos,Completada
+39,2026-04-20,C008,Mateo Sanchez,Medellin,Oficina,Silla ergonomica,1,520000,Transferencia,Pedro,Completada
+40,2026-04-22,C009,Valentina Lopez,Bogota,Tecnologia,Monitor Samsung,1,750000,Tarjeta,Carlos,Completada
+41,2026-05-02,C010,Santiago Moreno,Cali,Hogar,Cafetera,1,95000,Nequi,Maria,Completada
+42,2026-05-04,C001,Ana Torres,Pasto,Tecnologia,Teclado Redragon,2,120000,Tarjeta,Carlos,Completada
+43,2026-05-06,C002,Luis Gomez,Bogota,Oficina,Escritorio,1,680000,Transferencia,Pedro,Completada
+44,2026-05-08,C003,Camila Ruiz,Cali,Tecnologia,SSD 1TB,2,380000,Nequi,Carlos,Completada
+45,2026-05-10,C004,Juan Perez,Medellin,Hogar,Aspiradora,1,320000,Efectivo,Maria,Completada
+46,2026-05-12,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,2,210000,Tarjeta,Carlos,Completada
+47,2026-05-15,C006,Diego Castro,Pasto,Oficina,Lampara LED,4,75000,Nequi,Pedro,Completada
+48,2026-05-18,C007,Laura Rodriguez,Cali,Tecnologia,Portatil Lenovo,1,2800000,Tarjeta,Carlos,Completada
+49,2026-05-20,C008,Mateo Sanchez,Medellin,Hogar,Microondas,2,450000,Transferencia,Maria,Completada
+50,2026-05-22,C009,Valentina Lopez,Bogota,Tecnologia,Webcam Logitech,1,160000,Efectivo,Carlos,Completada

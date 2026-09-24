@@ -1,0 +1,13 @@
+id_producto,producto,categoria,marca,precio
+P001,Mouse Logitech,Tecnologia,Logitech,45000
+P002,Teclado Redragon,Tecnologia,Redragon,120000
+P003,Monitor Samsung,Tecnologia,Samsung,750000
+P004,Audifonos Sony,Tecnologia,Sony,210000
+P005,Portatil Lenovo,Tecnologia,Lenovo,2800000
+P006,Cafetera,Hogar,Oster,95000
+P007,Aspiradora,Hogar,Oster,320000
+P008,Microondas,Hogar,LG,450000
+P009,Silla ergonomica,Oficina,ErgoTech,520000
+P010,Escritorio,Oficina,OfficePro,680000
+P011,Lampara LED,Oficina,Philips,75000
+P012,SSD 1TB,Tecnologia,Kingston,380000
