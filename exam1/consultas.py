@@ -7,8 +7,10 @@ spark = SparkSession.builder \
     .getOrCreate()
 df = spark.read.csv("nasdaq_etl_taller.csv",header=True,inferSchema=True)
 
+df.createOrReplaceTempView("ESTUDIO")#convierte el dataset en tablas sql
+
 #1 Cuántos registros contiene el dataset?
-df.createOrReplaceTempView("ESTUDIO")
+
 spark.sql(""" SELECT COUNT(*) FROM ESTUDIO""").alias("Cantidad datos").show()
 
 #2 Cuál es el precio promedio de cierre (Close) considerando todas las acciones? 
