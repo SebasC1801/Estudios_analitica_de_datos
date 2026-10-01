@@ -1,14 +1,14 @@
 #ambiente y dependencias:
 --------------------------------------------
-	creación de ambiente:
+	##creación de ambiente:
 
  		Python -m venv venv
 --------------------------------------------
-	apertura de ambiente:
+	##apertura de ambiente:
 
 		venv\scripts\actívate
 --------------------------------------------
-	instalación de dependencias de pyspark:
+	##instalación de dependencias de pyspark:
 
 		pip install py4j
 
@@ -17,7 +17,7 @@
 
 #consultas SQL puras:
 
-orden de comandos en sql:
+##orden de comandos en sql:
 ---------------------------------------------
 SELECT (tabla1.atributos)
 FROM (tabla1)
@@ -28,8 +28,8 @@ GROUP(agrupar los datos obtenidos por las funciones(count, sum, max, min) depend
 HAVING(filtra grupos después del GROUP BY.Ejemplo:HAVING SUM(cantidad) > 5)
 ORDER(ordena de forma ascendente(dejar vacio) o descendente(escribir desc))
 LIMIT(limita la cantidad de datos al retornar al final, ej: limit 3 hara que solo salgan 3 entidades en la tabla)
-
-funciones
+----------------------------------------------
+##funciones
 ---------------------------------------------
 avg()  |promedio
 min()  |minimo
@@ -37,7 +37,7 @@ max()  |maximo
 sum()  |suma de todos los valores contables de una columna
 count()|cuenta el total de todos los valores de una columna
 
-operadores logicos
+##operadores logicos
 ---------------------------------------------
 =           | igual a
 !=          | diferente a
