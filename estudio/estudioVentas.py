@@ -12,6 +12,9 @@ clientes = spark.read.csv(
     inferSchema=True
 )
 
+clientes.createOrReplaceTempView("clientes")
+#spark.sql(""" select count(*) as cantidadClientes from clientes """).show()
+
 productos = spark.read.csv(
     "datasets/productos.csv",
     header=True,
@@ -44,15 +47,8 @@ ventasClientes = ventas.join(
 #ej:
 
 ventas_completas = ventas \
-    .join(
-        clientes,
-        ventas.id_cliente == clientes.id_cliente,
-        "inner"
-    ) \
-    .join(
-        productos,
-        ventas.id_producto == productos.id_producto,
-        "inner"
+    .join(clientes,ventas.id_cliente == clientes.id_cliente,"inner") \
+    .join(productos,ventas.id_producto == productos.id_producto,"inner"
     ).select(ventas.id_venta,
         ventas.fecha,
         ventas.id_cliente,
@@ -65,6 +61,7 @@ ventas_completas = ventas \
         ventas.cantidad,
         ventas.metodo_pago,
         ventas.estado)
+
 ventas_completas.createOrReplaceTempView("ventasCompletas")#
 #ventas_completas.select("id_venta","nombre","Producto","cantidad","estado").show()
 
@@ -76,8 +73,8 @@ ventas_completas = ventas_completas.withColumn(
 #ventas_completas.select("id_venta","nombre","Producto","cantidad","precio","total","estado").show()
 
 ventana = Window \
-    .partitionBy("id_cliente") \
-    .orderBy("fecha") \
+    .partitionBy("producto") \
+    .orderBy("categoria") \
     .rowsBetween(
         Window.unboundedPreceding,
         Window.currentRow
@@ -85,17 +82,23 @@ ventana = Window \
 
 ventas_completas.withColumn(
     "total_acumulado",
-    sum("total").over(ventana)
+    sum("cantidad").over(ventana)
 ).select(
-    "id_cliente",
-    "fecha",
-    "total",
+    "producto",
+    "categoria",
     "total_acumulado"
 )#.show()
 
-#spark.sql("""select count(*) from ventasCompletas""").alias("cantidadVentas").show()
+ventas_completas.withColumn("mes",month("fecha")).groupBy("mes").agg(avg("total").alias("promediototal")).orderBy(col("promediototal").desc()).show()
+#ventas_completas.groupBy("producto").agg(sum("cantidad").alias("cantidadTotal"),first("categoria")).orderBy(col("cantidadTotal").desc()).show()
 
-#spark.sql("""select count(*) from productos""").alias("cantidadProductos").show()
+#spark.sql(""" select nombre, count(*) as cantidadV from ventasCompletas group by nombre order by cantidadV asc """).show(1)
+
+#ventas_completas.groupBy("ciudad","producto").agg(sum("cantidad").alias("cantidadTotal")).orderBy(col("cantidadTotal").desc()).show()
+
+#spark.sql("""select count(*) as cantidadDatos from ventasCompletas""").show()
+
+#spark.sql("""select count(*) as cantidadProductos from productos""").show()
 
 #spark.sql("""select count(*) from ventasCompletas as v where v.estado != "Cancelada" """).alias("totalVentasCompletadas").show()
 
@@ -131,4 +134,8 @@ ventas_completas.withColumn(
 
 #spark.sql(""" select metodo_pago,count(*) as cantidadVendido from ventasCompletas group by metodo_pago """).show()
 
-ventas_completas.groupBy("categoria").agg(round(avg("precio")).alias("precioPromedio")).orderBy(col("precioPromedio").desc()).show(1)
+#ventas_completas.groupBy("categoria").agg(round(avg("precio")).alias("precioPromedio")).orderBy(col("precioPromedio").desc()).show(1)
+
+#ventas_completas.groupBy("nombre").agg(sum("precio").alias("valorTotal")).show()
+
+#ventas_completas.groupBy("ciudad").agg(sum("precio").alias("valorTotal")).orderBy(col("valorTotal").desc()).show(1)

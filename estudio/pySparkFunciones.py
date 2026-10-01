@@ -71,6 +71,6 @@ df.withColumn(
     #especificaciones de window, en pocas palabras over() sobreescribe la condicion
 # row_number() sirve para asignar como una especie de id que ayuda en la eliminacion de valores duplicados, por eso se le asigna una columna
 #lo que le estamos dicioendo es que le asigne la primer venta al cliente por mes
-).show()
+)#.show()
 
 

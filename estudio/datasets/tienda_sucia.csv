@@ -1,0 +1,701 @@
+﻿id_venta,fecha,id_cliente,nombre_cliente,ciudad,categoria,producto,cantidad,precio_unitario,metodo_pago,estado,email
+V0484,2026-02-12,C001,Ana Torres,Pasto,Tecnologia,SSD 1TB,2,380000,Transferencia,Cancelada,ana.torres@gmail.com
+V0096,2026-08-22,CLIENTE_X,Juan Perez,Medellin,Hogar,Licuadora Oster,1,165000,Efectivo,Cancelada,juan.perez@gmail.com
+V0577,2026-08-05,C012,Andres Vargas,Manizales,Hogar,Cafetera,1,95000,efectivo,Cancelada,andres.vargas@gmail.com
+V0141,2026-04-27,C014,Felipe Herrera,Bogota,Tecnologia,Audifonos Sony,3,210000,Nequi,Completada,felipe.herrera@gmail.com
+V0283,2026-07-18,C006,Diego Castro,Pasto,hogar,Licuadora Oster,3,165000,Transferencia,Cancelada,diego.castro@gmail.com
+V0498,2026-06-07,C002,Luis Gomez,Bogota,Tecnologia,Teclado Redragon,1,120000,Transferencia,Cancelada,luis.gomez@gmail.com
+V0063,2026-04-15,C010,Santiago Moreno,Cali,Tecnologia,Audifonos Sony,3,210000,Nequi,Pendiente,santiago.moreno@gmail.com
+V0515,2026-08-13,C008,Mateo Sanchez,Medellin,Tecnologia,SSD 1TB,2,380000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0406,2026-03-31,C012,Andres Vargas,Manizales,Tecnologia,SSD 1TB,1,380000,Transferencia,Completada,andres.vargas@gmail.com
+V0233,2026-09-03,C011,Daniela Rojas,Pasto,Tecnologia,Mouse Logitech,1,45000,Transferencia,Cancelada,daniela.rojas@gmail.com
+V0084,2026-03-07,C007,Laura Rodriguez,Cali,Tecnologia,SSD 1TB,3,380000,  Efectivo  ,Cancelada,laura.rodriguez@gmail.com
+V0616,2026-05-06,C010,Santiago Moreno,Cali,Hogar,Microondas,-2,450000,Efectivo,Completada,santiago.moreno@gmail.com
+V0622,2026-02-13,C015,Natalia Silva,Cali,Hogar,Cafetera,4,95000,Tarjeta,Pendiente,natalia.silva@gmail.com
+V0126,2026-09-05,C012,Andres Vargas,Manizales,Oficina,Silla ergonomica,3,520000,Transferencia,Cancelada,andres.vargas@gmail.com
+V0305,2026-07-17,C009,Valentina Lopez,Bogota,Hogar,Cafetera,2,95000,Tarjeta,Cancelada,valentina.lopez@gmail.com
+V0441,2026-01-17,C015,Natalia Silva,Cali,Hogar,Licuadora Oster,1,165000,Transferencia,Pendiente,natalia.silva@gmail.com
+V0519,2026-01-19,C009,Valentina Lopez, Bogota ,Hogar,Licuadora Oster,4,165000,Nequi,Pendiente,valentina.lopez@gmail.com
+V0646,2026-06-26,C009,Valentina Lopez,Bogota,Tecnologia,Webcam Logitech,4,180000,efectivo,Cancelada,valentina.lopez@gmail.com
+V0661,2026-07-02,C006,Diego Castro,Pasto,Tecnologia,Monitor Samsung,5,750000,Efectivo,Pendiente,diego.castro@gmail.com
+V0654,2026-09-09,C009,Valentina Lopez,Bogota,Tecnologia,Portatil Lenovo,2,2800000,Tarjeta,  Completada  ,valentina.lopez@gmail.com
+V0118,2026-03-27,C005,Sofia Martinez,Bogota,Tecnologia,Webcam Logitech,3,180000,Tarjeta,Completada,sofia.martinez@gmail.com
+V0442,2026-05-04,C013,Maria Castillo,Armenia,Hogar,Licuadora Oster,1,165000,Efectivo,Completada,maria.castillo@gmail.com
+V0640,2026-07-01,C011,Daniela Rojas,Pasto,Hogar,Aspiradora,2,320000,Efectivo,Completada,daniela.rojas@gmail.com
+V0174,2026-02-17,C001,Ana Torres,Pasto,Oficina,Silla ergonomica,4,520000,Efectivo,Completada,ana.torres@gmail.com
+V0611,2026-01-27,C006,Diego Castro,Pasto,Hogarrr,Teclado Redragon,5,120000,Efectivo,Completada,diego.castro@gmail.com
+V0514,2026-04-03,C004,Juan Perez,Medellin,Oficina,Escritorio,5,680000,Tarjeta,Pendiente,juan.perez@gmail.com
+V0558,2026-05-17,C005,Sofia Martinez,Bogota,Tecnologia,Portatil Lenovo,5,2800000,  Tarjeta  ,Completada,sofia.martinez@gmail.com
+V0513,2026-07-06,C007,Laura Rodriguez,Cali,Tecnologia,Portatil Lenovo,4,2800000,Tarjeta,Pendiente,laura.rodriguez@gmail.com
+V0529,2026-01-12,C005,Sofia Martinez,Bogotá,Tecnologia,Mouse Logitech,1,45000,Nequi,Pendiente,sofia.martinez@gmail.com
+V0410,2026-09-10,C999,Daniela Rojas,Pasto,Oficina,Silla ergonomica,5,520000,Efectivo,Pendiente,daniela.rojas@gmail.com
+V0012,2026-07-09,C014,Felipe Herrera,,Hogar,Cafetera,2,95000,Nequi,Completada,felipe.herrera@gmail.com
+V0548,2026-05-30,C010,Santiago Moreno,Cali,Tecnologia,Mouse Logitech,2,45000,Tarjeta,Cancelada,santiago.moreno@gmail.com
+V0569,2026-02-20,C013,Maria Castillo,Armenia,Tecnologia,Mouse Logitech,1,45000,Transferencia,Completada,maria.castillo@gmail.com
+V0128,2026-05-23,C014,Felipe Herrera,Bogota,Hogar,Licuadora Oster,1,165000,Transferencia,Completada,felipe.herrera@gmail.com
+V0530,2026-05-05,C002,Luis Gomez,Bogota,Oficina,Lampara LED,2,0,Efectivo,Pendiente,luis.gomez@gmail.com
+V0098,2026-08-07,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,5,150000000,Transferencia,Completada,felipe.herrera@gmail.com
+V0536,2026-02-28,C006,Diego Castro,Pasto,Tecnologia,Audifonos Sony,4,210000,nequi,CANCELADA,diego.castro@gmail.com
+V0116,2026-03-20,C004,Juan Perez,Medellin,Oficina,Impresora HP,1,620000,efectivo,Completada,juan.perez@gmail.com
+V0210,2026-04-26,C008,Mateo Sanchez,Medellin,Tecnologia,Teclado Redragon,2,120000,Transferencia,Pendiente,mateo.sanchez@gmail.com
+V0463,2026-02-20,C015,Natalia Silva,,Hogar,Microondas,4,450000,Transferencia,Cancelada,usuario@
+V0486,2026-09-01,C004,Juan Perez,Medellin,Hogar,Licuadora Oster,N/A,165000,Tarjta,Completada,juan.perez@gmail.com
+V0238,2026-04-21,C013,Maria Castillo,Armenia,Tecnologia,SSD 1TB,1,380000,Transferencia,Cancelada,maria.castillo@gmail.com
+V0217,2026-03-11,C004,Juan Perez,medellin,Hogar,Licuadora Oster,5,165000,Transferencia,Cancelada,juan.perez@gmail.com
+V0358,2026-05-16,C002,Luis Gomez,Bogota,Tecnologia,Mouse Logitech,5,45000,Efectivo,Pendiente,luis.gomez@gmail.com
+V0147,2026-03-19,C010,Santiago Moreno,Cali,Oficina,Lampara LED,1,75000,Efectivo,Pendiente,santiago.moreno@gmail.com
+V0256,2026-09-06,C008,Mateo Sanchez,Medellín,Oficina,Lampara LED,4,,Transferencia,Cancelada,mateo.sanchez@gmail.com
+V0040,2026-08-05,C011,Daniela Rojas,Pasto,Hogar,Aspiradora,3,320000,Transferencia,Cancelada,daniela.rojas@gmail.com
+V0031,2026-05-16,C008,Mateo Sanchez,Medellin,Oficina,Silla ergonomica,2,520000,Transferencia,Completada,mateo.sanchez@gmail.com
+V0160,2026-02-11,C009,Valentina Lopez,Bogota,Hogar,Microondas,4,450000,Tarjeta,Cancelada,valentina.lopez@gmail.com
+V_DUP_02,2026-09-07,C005,Sofia Martinez,Bogota,Hogar,Aspiradora,5,320000,Efectivo,Completada,sofia.martinez@gmail.com
+V0362,2026-06-24,C008,Mateo Sanchez,Medellin,Hogar,Microondas,2,450000,Efectivo,Cancelada,mateo.sanchez@gmail.com
+V0449,2026-07-15,C008,Mateo Sanchez,Medellin,Tecnologia,N/A,,45000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0598,2026-08-21,C015,Natalia Silva,Cali,Hogar,Aspiradora,1,320000,Tarjeta,Cancelada,natalia.silva@gmail.com
+V0652,2026-07-03,C004,Juan Perez,,Oficina,Escritorio,3,680000,Tarjeta,Pendiente,juan.perez@gmail.com
+V0594,2026-03-20,C011,Daniela Rojas,Pasto,Oficina,Silla ergonomica,5,520000,Nequi,Completada,daniela.rojas@gmail.com
+V0154,2026-05-30,C012,Andres Vargas,Manizales,Oficina,Escritorio,4,-50000,Tarjeta,completada,andres.vargas@gmail.com
+V0381,06-03-2026,C006,Diego Castro,Pasto,Tecnologia,Monitor Samsung,4,750000,Nequi,Pendiente,diego.castro@gmail.com
+V0135,2026-05-05,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,4,210000,Nequi,Pendiente,sofia.martinez@gmail.com
+V0007,2026-06-26,C007,Laura Rodriguez,Cali,Tecnologia,Teclado Redragon,3,120000,Nequi,Completada,laura.rodriguez@gmail.com
+V0436,2026-03-10,C011,Daniela Rojas,Pasto,Oficina,Impresora HP,5,620000,Nequi,Completada,daniela.rojas@gmail.com
+V0596,2026-02-03,C006,Diego Castro,Pasto,Hogar,Aspiradora,5,320000,Nequi,Pendiente,diego.castro@gmail.com
+V0025,2026-02-24,C013,Maria Castillo,Armenia,Tecnologia,Monitor Samsung,5,750000,Nequi,Pendiente,maria.castillo@gmail.com
+V0508,2026-07-22,C003,Camila Ruiz,Cali,Tecnologia,Portatil Lenovo,1,2800000,Nequi,Pendiente,camila.ruiz@gmail.com
+V0359,2026-09-12,C007,Laura Rodriguez,Cali,Oficina,Escritorio,1,680000,Nequi,Pendiente,
+V0226,2026-01-02,C013,Maria Castillo,Armenia,Hogar,Licuadora Oster,5,165000,Nequi,Completada,maria.castillo@gmail.com
+V0342,2026-03-30,C014,Felipe Herrera,Bogota,Tecnologia,Teclado Redragon,4,120000,Transferencia,Completada,felipe.herrera@gmail.com
+V0056,2026-08-23,C003,Camila Ruiz,Cali,Oficina,Lampara LED,3,75000,Nequi,Completada,camila.ruiz@gmail.com
+V0633,2026-05-08,C007,Laura Rodriguez,Cali,Oficina,Impresora HP,4,620000,Tarjeta,Cancelada,laura.rodriguez@gmail.com
+V0186,2026-01-08,C002,Luis Gomez,Bogota,Oficina,N/A,4,520000,Efectivo,Cancelada,luis.gomez@gmail.com
+V0483,01/09/2026,C007,Laura Rodriguez,Cali,Hogar,Aspiradora,5,320000,Tarjeta,  Pendiente  ,laura.rodriguez@gmail.com
+V0090,2026-06-08,C014,Felipe Herrera,Bogota,Tecnologia,Webcam Logitech,2,180000,Efectivo,completada,felipe.herrera@gmail.com
+V0103,2026-04-20,C004,Juan Perez,Medellin,Hogar,Aspiradora,200,320000,tarjeta,Cancelada,juan.perez@gmail.com
+V0029,2026-02-10,C004,Juan Perez,Medellin,Hogar,Licuadora Oster,5,165000,Tarjeta,Pendiente,juan.perez@gmail.com
+V0088,2026-09-19,C008,  Mateo Sanchez  ,Medellin,Oficina,Lampara LED,2,75000,Transferencia,Pendiente,mateo.sanchez@gmail.com
+V0309,2026-09-28,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,2,210000,Transferencia,Completada,sofia.martinez@gmail.com
+V0356,2026-03-20,C011,Daniela Rojas,Pasto,Tecnologia,Monitor Samsung,5,750000,Efectivo,Pendiente,
+V0663,2026-04-01,C012,Andres Vargas,Manizales,Tecnologia,Portatil Lenovo,N/A,150000000,Tarjeta,Pendiente,andres.vargas@gmail.com
+V0430,2026-06-07,C001,Ana Torres,Pasto,Oficina,Silla ergonomica,4,,tarjeta,Cancelada,ana.torres@gmail.com
+V0159,2026-07-26,C008,Mateo Sanchez,Medellin,Tecnologia,SSD 1TB,3,380000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0370,2026-04-21,C009,Valentina Lopez,bogota,Hogar,Microondas,2,450000,Nequi,Completada,valentina.lopez@gmail.com
+V0195,2026-07-15,C003,Camila Ruiz,Cali,Tecnologia,Teclado Redragon,5,120000,Efectivo,Cancelada,camila.ruiz@gmail.com
+V0304,2026-08-01,C015,Natalia Silva,Cali,Hogar,Cafetera,100,95000,Tarjeta,Cancelada,natalia.silva@gmail.com
+V0518,2026-09-03,C002,Luis Gomez,Bogota,Hogar,Microondas,5,450000,Transferencia,Pendiente,luis.gomez@gmail.com
+V0353,2026-04-26,C003,Camila Ruiz,Cali,tecnologia,Monitor Samsung,3,750000,Nequi,Pendiente,camila.ruiz@gmail.com
+V0214,2026-04-24,C015,Natalia Silva,Cali,Oficina,Silla ergonomica,3,520000,Tarjeta,Pendiente,natalia.silva@gmail.com
+V0586,2026-09-23,C015,Natalia Silva,Cali,Tecnologia,Portatil Lenovo,2,2800000,Efectivo,Pendiente,natalia.silva@gmail.com
+V0539,2026-02-13,C010,Santiago Moreno,Cali,Tecnologia,Monitor Samsung,3,750000,Efectivo,Cancelada,santiago.moreno@gmail.com
+V0318,2026-06-20,C012,Andres Vargas,Manizales,Oficina,Lampara LED,1,75000,Efectivo,Completada,andres.vargas@gmail.com
+V0262,2026-09-14,C007,Laura Rodriguez,Cali,Oficina,Silla ergonomica,2,520000,Nequi,Completada,laura.rodriguez@gmail.com
+V0532,2026-04-06,C013,Maria Castillo,Armenia,Hogar,Aspiradora,2,320000,Transferencia,Cancelada,maria.castillo@gmail.com
+V0098,2026-08-07,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,5,150000000,Transferencia,Completada,felipe.herrera@gmail.com
+V0313,2026-01-01,C003,Camila Ruiz,Cali,Tecnologia,Portatil Lenovo,N/A,2800000,Nequi,Completada,camila.ruiz@gmail.com
+V0292,2026-02-09,C004,Juan Perez,Medellin,Tecnologia,Monitor Samsung,2,750000,Nequi,Completada,juan.perez@gmail.com
+V0411,2026-02-27,C999,Mateo Sanchez,Medellin,Tecnologia,Portatil Lenovo,2,2800000,Nequi,Completada,mateo.sanchez@gmail.com
+V0018,2026-05-15,C004,Juan Perez,Medellin,Tecnologia,SSD 1TB,5,380000,Transferencia,Pendiente,juan.perez@gmail.com
+V0120,2026-07-23,C011,Daniela Rojas,Pasto,Hogar,Licuadora Oster,4,165000,Efectivo,Completada,daniela.rojas@gmail.com
+V0534,2026-04-20,C007,Laura Rodriguez,Cali,Hogar,Aspiradora,1,320000,Efectivo,Cancelada,laura.rodriguez@gmail.com
+V0326,2026-08-14,C007,Laura Rodriguez,Cali,Hogar,Licuadora Oster,4,165000,Transferencia,Cancelada,laura.rodriguez@gmail.com
+V0171,2026-03-09,C004,Juan Perez,Medellin,Tecnologia,Portatil Lenovo,5,,Nequi,Cancelada,juan.perez@gmail.com
+V0477,2026-05-27,C009,Valentina Lopez,  Bogota  ,Tecnologia,SSD 1TB,3,380000,Tarjeta,Pendiente,valentina.lopez@gmail.com
+V0032,2026-06-09,C015,Natalia Silva,Cali,Oficina,Silla ergonomica,2,520000,Transferencia,Pendiente,natalia.silva@gmail.com
+V0444,2026-08-13,C012,Andres Vargas,Manizales,Tecnologia,Mouse Logitech,4,45000,Efectivo,Pendiente,andres.vargas@gmail.com
+V0329,2026-02-10,C005,Sofia Martinez,Bogota,Hogar,Cafetera,1,95000,Nequi,Pendiente,sofia.martinez@gmail.com
+V0189,2026-06-12,C014,Felipe Herrera,Bogota,Oficina,Silla ergonomica,4,520000,Transferencia,Pendiente,felipe.herrera@gmail.com
+V0509,2026-08-14,C007,Laura Rodriguez,Cali,Tecnologia,Webcam Logitech,3,180000,Nequi,Completad,laura.rodriguez@gmail.com
+V0076,2026-06-29,C014,Felipe Herrera,Bogota,Tecnologia,Teclado Redragon,3,120000,,Pendiente,felipe.herrera@gmail.com
+V0450,2026-06-03,C007,Laura Rodriguez,Cali,Hogar,Aspiradora,2,320000,Transferencia,Completada,laura.rodriguez@gmail.com
+V0582,2026-08-15,C012,Andres Vargas,Manizales,Tecnologia,Monitor Samsung,4,750000,Efectivo,Completada,andres.vargas@gmail.com
+V0621,2026-04-29,C005,Sofia Martinez,Bogota,Tecnologia,Teclado Redragon,1,120000,Transferencia,Pendiente,sofia.martinez@gmail.com
+V0472,2026-01-04,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,1,75000,Transferencia,Completada,felipe.herrera@gmail.com
+V0190,2026-05-01,C001,Ana Torres,Pasto,Oficina,Escritorio,1,680000,Nequi,  Completada  ,ana.torres@gmail.com
+V0015,2026-06-11,C004,Juan Perez,Medellin,Oficina,Impresora HP,1,620000,Transferencia,Cancelada,juan.perez@gmail.com
+V0164,2026-09-09,C003,Camila Ruiz,Cali,Oficina,N/A,4,680000,Tarjeta,Cancelada,camila.ruiz@gmail.com
+V0219,2026-07-28,C011,Daniela Rojas,Pasto,Tecnologia,Teclado Redragon,4,120000,Nequi,Completada,daniela.rojas@gmail.com
+V0234,2026-08-16,C011,Daniela Rojas,Pasto,Tecnologia,Teclado Redragon,4,120000,Tarjeta,Completada,daniela.rojas@gmail.com
+V0392,2026-09-05,C006,Diego Castro,Pasto,Oficina,Lampara LED,3,75000,Efectivo,Completada,diego.castro@gmail.com
+V0030,2026-03-06,C008,Mateo Sanchez,MEDELLIN,Oficina,Impresora HP,1,620000,Efectivo,Pendiente,mateo.sanchez@gmail.com
+V0085,2026-06-04,C011,Daniela Rojas,Pasto,Hogar,Aspiradora,2,320000,Transferencia,Pendiente,daniela.rojas@gmail.com
+V0336,2026-08-19,C001,Ana Torres,Pasto,Oficina,Escritorio,2,680000,Nequi,Cancelada,ana.torres@gmail.com
+V0541,2026-07-18,C012,Andres Vargas,Manizales,Tecnologia,Monitor Samsung,5,750000,Transferencia,Pendiente,andres.vargas@gmail.com
+V0314,2026-02-13,C010,Santiago Moreno,Cali,Hogar,Aspiradora,2,320000,Nequi,Completada,santiago.moreno@gmail.com
+V0078,2026-01-20,C003,Camila Ruiz,Cali,Oficina,Escritorio,3,680000,Tarjeta,Pendiente,camila.ruiz@gmail.com
+V0637,2026-03-07,C002,Luis Gomez,Bogota,Tecnologia,Audifonos Sony,4,210000,Tarjeta,Cancelada,luis.gomez@gmail.com
+V0245,2026-01-27,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,4,75000,Nequi,Pendiente,felipe.herrera@gmail.com
+V0338,2026-05-08,C006,Diego Castro,Pasto,Oficina,Lampara LED,3,75000,Tarjeta,Completada,diego.castro@gmail.com
+V0549,2026-03-28,C004,Juan Perez,medellin,Oficina,Silla ergonomica,3,520000,Transferencia,Pendiente,juan.perez@gmail.com
+V0465,2026-03-16,C010,Santiago Moreno,Cali,Oficina,Impresora HP,2,620000,Tarjeta,Cancelada,santiago.moreno@gmail.com
+V0335,2026-07-05,C004,Juan Perez,Medellin,Tecnologia,Webcam Logitech,3,180000,Transferencia,Pendiente,juan.perez@gmail.com
+V0337,2026-03-12,C008,Mateo Sanchez,Medellin,Tecnologia,Webcam Logitech,1,180000,Nequi,Cancelada,mateo.sanchez@gmail.com
+V0575,2026-09-02,C002,Luis Gomez,Bogota,Tecnologia,Mouse Logitech,2,45000,Tarjeta,Completada,luis.gomez@gmail.com
+V0445,2026-03-13,C004,Juan Perez,Medellin,Tecnlogia,Webcam Logitech,1,180000,Nequi,Completada,cliente.gmail.com
+V0446,2026-06-13,C014,Felipe Herrera,Bogota,Hogar,Licuadora Oster,5,165000,Nequi,completada,felipe.herrera@gmail.com
+V0260,2026-05-11,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,2,210000,Nequi,Cancelada,sofia.martinez@gmail.com
+V0628,2026-07-03,C006,Diego Castro,Pasto,Hogar,Aspiradora,1,320000,Efectivo,Cancelada,diego.castro@gmail.com
+V0002,2026-02-14,C003,Camila Ruiz,Cali,Tecnologia,SSD 1TB,1,380000,,Completada,camila.ruiz@gmail.com
+V0308,2026-01-03,C008,Mateo Sanchez,Medellin,Hogar,Microondas,5,450000,Tarjeta,Completada,mateo.sanchez@gmail.com
+V0173,2026-03-23,C010,Santiago Moreno,Cali,Tecnologia,Webcam Logitech,2,180000,Nequi,Pendiente,usuario@
+V0089,2026-05-26,C003,Camila Ruiz,Cali,Oficina,Lampara LED,1,75000,Nequi,Completada,camila.ruiz@gmail.com
+V0355,2026-06-05,C009,Valentina Lopez,Bogota,Tecnologia,Portatil Lenovo,2,2800000,Tarjeta,Pendiente,valentina.lopez@gmail.com
+V0242,2026-02-17,C002,Luis Gomez,Bogota,Oficina,Impresora HP,1,620000,Transferencia,Completada,luis.gomez@gmail.com
+V0180,2026-09-08,C012,Andres Vargas,Manizales,Tecnologia,Portatil Lenovo,5,2800000,Efectivo,Cancelada,andres.vargas@gmail.com
+V0553,2026-06-02,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,2,75000,Tarjeta,Cancelada,felipe.herrera@gmail.com
+V0148,2026-03-02,C005,Sofia Martinez,Bogota,Tecnologia,Teclado Redragon,2,120000,Transferencia,Pendiente,sofia.martinez@gmail.com
+V0065,2026-03-08,C001,Ana Torres,Pasto,Tecnologia,Mouse Logitech,3,45000,Nequi,Completada,ana.torres@gmail.com
+V0409,2026-06-21,C010,Santiago Moreno,Cali,Oficina,Escritorio,1,680000,Nequi,Cancelada,santiago.moreno@gmail.com
+V0540,2026-03-01,C002,Luis Gomez,Bogota,Tecnologia,Audifonos Sony,3,210000,Efectivo,Cancelada,luis.gomez@gmail.com
+V0194,2026-07-30,C003,Camila Ruiz,Cali,Tecnologia,Audifonos Sony,5,210000,Efectivo,Completada,camila.ruiz@gmail.com
+V0327,2026-07-08,C003,Camila Ruiz,Cali,Hogar,Microondas,4,450000,,Completada,camila.ruiz@gmail.com
+V0097,2026-06-12,C011,Daniela Rojas,Pasto,Oficina,Silla ergonomica,5,520000,Transferencia,Pendiente,daniela.rojas@gmail.com
+V0248,2026-04-26,C006,Diego Castro,Pasto,Tecnologia,Teclado Redragon,3,120000,Transferencia,Pendiente,diego.castro@gmail.com
+V0656,2026-04-14,C008,Mateo Sanchez,Medellin,Tecnologia,Mouse Logitech,3,45000,Efectivo,Cancelada,mateo.sanchez@gmail.com
+V0467,2026-07-14,C004,Juan Perez,Medellin,Hogarrr,Cafetera,2,95000,Efectivo,Cancelada,juan.perez@gmail.com
+V0625,2026-06-17,C015,Natalia Silva,Cali,Tecnologia,Webcam Logitech,4,180000,Nequi,Cancelada,natalia.silva@gmail.com
+V0191,2026-02-20,C012,Andres Vargas,Manizales,Tecnologia,Teclado Redragon,4,120000,Tarjeta,Cancelada,andres.vargas@gmail.com
+V0071,2026-03-25,C012,Andres Vargas,Manizales,Tecnologia,Monitor Samsung,2,750000,Efectivo,Cancelada,andres.vargas@gmail.com
+V0134,2026-08-18,C008,Mateo Sanchez,Medellin,Oficina,Lampara LED,4,75000,Tarjeta,Completada,mateo.sanchez@gmail.com
+V0566,2026-04-22,C013,Maria Castillo,Armenia,Oficina,Silla ergonomica,4,520000,Transferencia,completada,maria.castillo@gmail.com
+V0546,2026-07-29,C009,Valentina Lopez,Bogota,Oficina,Lampara LED,4,75000,Transferencia,Cancelada,valentina.lopez@gmail.com
+V0167,2026-06-11,C001,Ana Torres,Pasto,Hogar,Microondas,1,450000,Nequi,Cancelada,
+V0012,2026-07-09,C014,Felipe Herrera,,Hogar,Cafetera,2,95000,Nequi,Completada,felipe.herrera@gmail.com
+V0379,2026-08-31,C001,Ana Torres,Pasto,Tecnologia,Monitor Samsung,3,750000,Transferencia,  Completada  ,ana.torres@gmail.com
+V0211,2026-01-08,C006,Diego Castro,Pasto,Tecnologia,Teclado Redragon,4,120000,efectivo,Pendiente,diego.castro@gmail.com
+V0426,2026-03-18,C015,Natalia Silva,Cali,Oficina,Silla ergonomica,2,520000,Efectivo,Cancelada,natalia.silva@gmail.com
+V0297,2026-05-03,C013,Maria Castillo,Armenia,Hogar,Microondas,2,450000,Nequi,Cancelada,maria.castillo@gmail.com
+V0367,2026-06-17,C014,Felipe Herrera,Bogota,Hogar,Licuadora Oster,2,165000,Nequi,Completad,felipe.herrera@gmail.com
+V0053,2026-02-11,C010,Santiago Moreno,Cali,Tecnologia,Mouse Logitech,5,45000,Transferencia,Pendiente,santiago.moreno@gmail.com
+V0175,2026-09-13,C008,Mateo Sanchez,  Medellin  ,Tecnologia,Teclado Redragon,2,120000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0172,2026-03-04,C015,Natalia Silva,Cali,Tecnologia,SSD 1TB,4,,Tarjeta,Pendiente,natalia.silva@gmail.com
+V0618,2026-06-21,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,1,380000,Tarjeta,Pendiente,felipe.herrera@gmail.com
+V0659,2026-02-21,C006,Diego Castro,Pasto,Tecnologia,SSD 1TB,-2,380000,Nequi,Cancelada,diego.castro@gmail.com
+V0017,2026-03-15,C008,Mateo Sanchez,Medellin,Hogar,Aspiradora,4,320000,Nequi,Completada,mateo.sanchez@gmail.com
+V0060,2026-09-28,C014,Felipe Herrera, Bogota ,Oficina,Silla ergonomica,3,520000,Tarjeta,Pendiente,@gmail.com
+V0251,2026-07-25,C003,Camila Ruiz,Cali,Oficina,Impresora HP,2,620000,Tarjeta,Completada,camila.ruiz@gmail.com
+V0057,2026-02-21,C001,Ana Torres,Pasto,Hogar,Microondas,5,450000,Tarjeta,Pendiente,ana.torres@gmail.com
+V0011,2026-05-23,C014,Felipe Herrera,Bogota,Tecnologia,Teclado Redragon,4,120000,Transferencia,Pendiente,felipe.herrera@gmail.com
+V0254,2026-02-13,C012,Andres Vargas,Manizales,Hogar,Cafetera,5,95000,Tarjeta,Completada,andres.vargas@gmail.com
+V0512,2026-09-09,C007,Laura Rodriguez,Cali,Hogar,Cafetera,3,95000,Efectivo,Cancelada,laura.rodriguez@gmail.com
+V0296,2026-08-16,C007,Laura Rodriguez,Cali,Hogar,Cafetera,2,95000,Nequi,Pendiente,laura.rodriguez@gmail.com
+V0273,2026-08-26,C013,Maria Castillo,Armenia,Oficina,Lampara LED,4,75000,Transferencia,Pendiente,maria.castillo@gmail.com
+V0181,2026-06-20,C009,Valentina Lopez,Bogota,Hogar,Microondas,3,450000,Transferencia,Cancelada,valentina.lopez@gmail.com
+V0255,2026-01-26,C003,Camila Ruiz,Cali,Tecnologia,Webcam Logitech,5,180000,Tarjeta,Cancelada,camila.ruiz@gmail.com
+V0046,2026-04-20,C007,  Laura Rodriguez  ,Cali,Hogar,Microondas,4,450000,Transferencia,Completada,laura.rodriguez@gmail.com
+V0041,2026-02-20,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,1,380000,Tarjeta,CANCELADA,felipe.herrera@gmail.com
+V0592,2026-09-17,C015,Natalia Silva,Cali,Tecnologia,Mouse Logitech,4,,Nequi,Pendiente,natalia.silva@gmail.com
+V0240,2026-06-10,C007,Laura Rodriguez,Cali,Tecnologia,SSD 1TB,1,380000,Transferencia,Cancelada,laura.rodriguez@gmail.com
+V0532,2026-04-06,C013,Maria Castillo,Armenia,Hogar,Aspiradora,2,320000,Transferencia,Cancelada,maria.castillo@gmail.com
+V0407,2026-07-23,C015,Natalia Silva,cali,Hogar,Licuadora Oster,1,165000,Transferencia,Completada,natalia.silva@gmail.com
+V0176,2026-09-05,C012,Andres Vargas,Manizales,Tecnologia,Portatil Lenovo,4,2800000,Transferencia,Completada,andres.vargas@gmail.com
+V0158,2026-05-28,C001,Ana Torres,Pasto,Tecnologia,Monitor Samsung,3,750000,Transferencia,Completada,ana.torres@gmail.com
+V0062,2026-03-21,C002,Luis Gomez,Bogota,Hogar,Licuadora Oster,1,165000,Nequi,Cancelada,luis.gomez@gmail.com
+V0346,2026-07-04,C013,Maria Castillo,Armenia,Hogarrr,Microondas,1,450000,Nequi,Cancelada,maria.castillo@gmail.com
+V0266,2026-08-24,C006,Diego Castro,Pasto,Tecnologia,Monitor Samsung,5,750000,Nequi,Completada,diego.castro@gmail.com
+V0204,2026-04-23,C010,Santiago Moreno, Cali ,Tecnologia,Webcam Logitech,3,180000,Efectivo,Pendiente,santiago.moreno@gmail.com
+V0542,2026-08-05,C003,Camila Ruiz,Cali,Oficina,Escritorio,4,680000,Efectivo,Cancelada,camila.ruiz@gmail.com
+V0620,2026-01-31,C004,Juan Perez,Medellin,Hogar,Aspiradora,4,320000,Efectivo,Pendiente,juan.perez@gmail.com
+V0349,2026-03-06,C014,Felipe Herrera,Bogota,Oficina,Escritorio,1,680000,Nequi,Pendiente,felipe.herrera@gmail.com
+V0504,2026-05-18,C007,Laura Rodriguez,Cali,Tecnologia,Monitor Samsung,2,750000,Nequi,Cancelada,laura.rodriguez@gmail.com
+V0448,2026-03-31,C005,Sofia Martinez,Bogota,Tecnologia,Portatil Lenovo,1,2800000,Transferencia,Pendiente,sofia.martinez@gmail.com
+V0568,2026-09-06,C010,Santiago Moreno,Cali,Tecnologia,Monitor Samsung,5,750000,Nequi,Pendiente,santiago.moreno@gmail.com
+V0289,2026-03-07,C009,Valentina Lopez,Bogota,Hogar,Aspiradora,3,320000,Tarjeta,Pendiente,valentina.lopez@gmail.com
+V0075,2026-07-24,C004,Juan Perez,Medellin,Tecnologia,Mouse Logitech,2,45000,Nequi,Cancelada,juan.perez@gmail.com
+V0235,2026-02-03,C006,Diego Castro,Pasto,Oficina,Escritorio,2,680000,Efectivo,Cancelada,diego.castro@gmail.com
+V0526,2026-06-28,C002,Luis Gomez,Bogota,Oficina,Impresora HP,N/A,620000,Nequi,Cancelada,luis.gomez@gmail.com
+V0565,2026-08-23,C010,Santiago Moreno,Cali,Tecnologia,Mouse Logitech,1,45000,Nequi,Completada,santiago.moreno@gmail.com
+V0554,2026-08-13,C005,Sofia Martinez,Bogota,Hogar,Cafetera,1,95000,Tarjeta,Completada,sofia.martinez@gmail.com
+V0101,2026-02-09,C004,Juan Perez,Medellin,Tecnologia,Portatil Lenovo,4,2800000,Nequi,Completada,juan.perez@gmail.com
+V_DUP_04,2026-07-22,C007,Laura Rodriguez,Cali,Oficina,Silla ergonomica,1,N/A,Nequi,Pendiente,laura.rodriguez@gmail.com
+V0039,2026-04-08,C013,Maria Castillo,Armenia,Hogar,Microondas,4,450000,Tarjeta,Completada,maria.castillo@gmail.com
+V0253,2026-03-22,C007,Laura Rodriguez,Cali,Hogar,Microondas,3,450000,Nequi,Cancelada,laura.rodriguez@gmail.com
+V0168,2026-09-21,C002,Luis Gomez,Bogota,Tecnologia,Webcam Logitech,4,180000,Tarjeta,Pendiente,luis.gomez@gmail.com
+V0665,2026-04-24,C006,Diego Castro,Pasto,Hogar,Licuadora Oster,5,165000,Tarjeta,Cancelada,diego.castro@gmail.com
+V0139,2026-04-09,C012,Andres Vargas,MANIZALES,Oficina,Silla ergonomica,2,520000,Efectivo,Pendiente,andres.vargas@gmail.com
+V0140,2026-09-26,C008,Mateo Sanchez,Medellin,Tecnologia,Portatil Lenovo,5,2800000,Nequi,Completada,mateo.sanchez@gmail.com
+V0508,2026-07-22,C003,Camila Ruiz,Cali,Tecnologia,Portatil Lenovo,1,2800000,Nequi,Pendiente,camila.ruiz@gmail.com
+V0400,2026-05-03,C010,Santiago Moreno,Cali,Tecnologia,SSD 1TB,5,380000,Efectivo,Completada,santiago.moreno@gmail.com
+V0010,2026-05-29,C002,Luis Gomez,Bogota,Tecnologia,Mouse Logitech,0,150000000,Tarjeta,Completada,luis.gomez@gmail.com
+V0357,2026-06-22,C010,Santiago Moreno,Cali,Tecnologia,SSD 1TB,5,380000,Tarjeta,Completada,santiago.moreno@gmail.com
+V0328,2026-08-09,C012,Andres Vargas,,hogar,Aspiradora,1,2500000.99,Efectivo,Pendiente,andres.vargas@gmail.com
+V0197,2026-01-05,C005,Sofia Martinez,Bogota,Hogar,Microondas,3,450000,Transferencia,Cancelada,sofia.martinez@gmail.com
+V0104,2026-08-27,C007,Laura Rodriguez,Cali,Hogar,Cafetera,,95000,transferencia,Completada,laura.rodriguez@gmail.com
+V0579,2026-03-12,C006,Diego Castro,Pasto,Hogar,Cafetera,3,95000,Transferencia,Completada,diego.castro@gmail.com
+V0290,2026-07-05,C011,Daniela Rojas,Pasto,Hogar,Aspiradora,5,320000,Tarjeta,Cancelada,daniela.rojas@gmail.com
+V0366,2026-07-16,C002,Luis Gomez,Bogota,Tecnologia,Mouse Logitech,3,45000,Transferencia,Completada,luis.gomez@gmail.com
+V0008,2026-03-05,C012,Andres Vargas,Manizales,Hogar,Microondas,5,450000,Transferencia,Completada,andres.vargas@gmail.com
+V0269,2026-03-28,C006,Diego Castro,Pasto,Tecnologia,Audifonos Sony,3,210000,Tarjeta,Pendiente,diego.castro@gmail.com
+V0562,2026-08-01,C010,Santiago Moreno,Cali,Oficina,Lampara LED,3,75000,Transferencia,Completad,santiago.moreno@gmail.com
+V0393,2026-04-26,C005,Sofia Martinez,Bogota,Oficina,Silla ergonomica,3,520000,Nequi,Cancelada,sofia.martinez@gmail.com
+V0606,2026-03-01,C005,Sofia Martinez,Bogota,Tecnologia,Webcam Logitech,1,180000,Efectivo,Pendiente,sofia.martinez@gmail.com
+V0501,2026-02-17,C001,Ana Torres,  Pasto  ,Tecnologia,Teclado Redragon,3,120000,Nequi,Cancelada,ana.torres@gmail.com
+V0232,2026-01-23,C009,Valentina Lopez,  Bogota  ,Tecnologia,Audifonos Sony,5,210000,Nequi,Cancelada,valentina.lopez@gmail.com
+V0475,09-05-2026,C011,Daniela Rojas,Pasto,Oficina,Lampara LED,5,75000,Transferencia,Completada,daniela.rojas@gmail.com
+V0537,2026-06-10,C014,Felipe Herrera,bogota,Tecnlogia,Microondas,5,450000,Transferencia,Pendiente,felipe.herrera@gmail.com
+V0447,2026-09-24,C005,Sofia Martinez,Bogota,Hogar,Licuadora Oster,2,165000,Efectivo,Cancelada,sofia.martinez@gmail.com
+V0227,2026-03-31,C003,Camila Ruiz,Cali,Oficina,Silla ergonomica,3,520000,Tarjeta,Pendiente,camila.ruiz@gmail.com
+V0188,fecha_invalida,CLIENTE_X,Diego Castro,Pasto,Oficina,Escritorio,4,680000,Nequi,Pendiente,diego.castro@gmail.com
+V0068,2026-03-07,C009,Valentina Lopez, Bogota ,Tecnologia,Monitor Samsung,4,750000,Tarjeta,Cancelada,valentina.lopez@gmail.com
+V0287,2026-06-29,C010,Santiago Moreno,Cali,Oficina,Lampara LED,2,75000,Nequi,Pendiente,santiago.moreno@gmail.com
+V0612,2026-07-25,C013,Maria Castillo,Armenia,Oficina,Silla ergonomica,1,520000,Tarjeta,Cancelada,maria.castillo@gmail.com
+V0415,2026-04-05,C007,Laura Rodriguez,Cali,Oficina,Lampara LED,1,75000,Efectivo,Cancelada,laura.rodriguez@gmail.com
+V0278,2026-09-17,C002,Luis Gomez,Bogota,Oficina,Lampara LED,1,75000,Transferencia,Cancelada,luis.gomez@gmail.com
+V0437,2026-09-28,C003,Camila Ruiz,Cali,Oficina,Silla ergonomica,4,520000,Efectivo,Pendiente,camila.ruiz@gmail.com
+V0268,2026-07-22,C007,Laura Rodriguez,Cali,Oficina,Silla ergonomica,1,N/A,Nequi,Pendiente,laura.rodriguez@gmail.com
+V0072,2026-07-30,C001,Ana Torres,Pasto,Tecnologia,Monitor Samsung,3,750000,Efectivo,Cancelada,ana.torres@gmail.com
+V0216,2026-09-10,C001,Ana Torres,Pasto,Tecnologia,Mouse Logitech,3,45000,Tarjeta,Completada,ana.torres@gmail.com
+V_DUP_01,2026-08-26,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,2,380000,Tarjeta,Pendiente,felipe.herrera@gmail.com
+V0156,2026-04-12,C004,Juan Perez,Medellin,Hogar,Licuadora Oster,3,165000,Transferencia,Completada,juan.perez@gmail.com
+V0494,2026-08-10,C006,Diego Castro,Pasto,Oficina,Silla ergonomica,4,520000,Efectivo,Pendiente,diego.castro@gmail.com
+V0341,2026-04-13,C005,Sofia Martinez,Bogota,Tecnologia,SSD 1TB,4,380000,Tarjeta,Completada,correo_sin_arroba.com
+V0369,2026-01-12,C015,Natalia Silva,Cali,Tecnologia,Portatil Lenovo,4,2800000,Tarjeta,Cancelada,natalia.silva@gmail.com
+V0416,2026-01-04,C006,Diego Castro,Pasto,Hogar,Licuadora Oster,2,165000,Nequi,Cancelada,diego.castro@gmail.com
+V0435,2026-07-12,C014,Felipe Herrera,Bogota,Hogar,Licuadora Oster,4,165000,Tarjeta,Pendiente,felipe.herrera@gmail.com
+V0271,2026-05-01,C006,Diego Castro,Pasto,Tecnologia,SSD 1TB,200,380000,Tarjeta,Completada,diego.castro@gmail.com
+V0365,2026-08-19,C008,Mateo Sanchez,Medellin,Tecnologia,Teclado Redragon,3,120000,Efectivo,Completada,mateo.sanchez@gmail.com
+V0650,2026-05-17,C004,Juan Perez,Medellin,Oficina,Lampara LED,2,75000,Tarjeta,Completada,correo_sin_arroba.com
+V0115,2026-01-21,C004,Juan Perez,Medellin,Oficina,Lampara LED,1,75000,Tarjeta,Completada,juan.perez@gmail.com
+V_DUP_06,2026-03-29,C011,Daniela Rojas,Pasto,Tecnologia,Portatil Lenovo,1,2800000,efectivo,Completada,daniela.rojas@gmail.com
+V0246,2026-09-17,C005,Sofia Martinez,Bogota,Hogar,Cafetera,1,95000,Efectivo,Completada,sofia.martinez@gmail.com
+V0580,2026-02-05,C011,Daniela Rojas,Pasto,Oficina,Lampara LED,2,75000,Tarjeta,Pendiente,daniela.rojas@gmail.com
+V0069,2026-07-03,C006,Diego Castro,Pasto,Hogar,Licuadora Oster,1,165000,efectivo,Pendiente,diego.castro@gmail.com
+V0153,2026-01-02,C009,Valentina Lopez,Bogota,Tecnologia,Teclado Redragon,2,120000,Transferencia,Cancelada,valentina.lopez@gmail.com
+V0585,2026-05-26,C002,Luis Gomez,Bogota,Tecnologia,Audifonos Sony,5,210000,Tarjeta,Pendiente,luis.gomez@gmail.com
+V0224,2026-04-16,C004,Juan Perez,Medellin,Tecnologia,Monitor Samsung,5,750000,Tarjeta,Pendiente,juan.perez@gmail.com
+V0301,2026-02-22,C011,Daniela Rojas,Pasto,Hogar,Microondas,3,450000,Tarjeta,Cancelada,daniela.rojas@gmail.com
+V0617,2026-04-30,C015,Natalia Silva,Cali,Hogar,Aspiradora,1,320000,Nequi,Pendiente,natalia.silva@gmail.com
+V0161,2026-05-09,C012,Andres Vargas,Manizales,Hogar,Cafetera,5,95000,Tarjeta,Completada,andres.vargas@gmail.com
+V0384,2026-08-31,C010,Santiago Moreno,Cali,Tecnologia,Portatil Lenovo,1,2800000,Nequi,Pendiente,santiago.moreno@gmail.com
+V0087,2026-06-14,C013,Maria Castillo,Armenia,Oficina,Escritorio,5,680000,Transferencia,Cancelada,maria.castillo@gmail.com
+V0220,2026-08-16,C012,Andres Vargas,Manizales,Hogar,Cafetera,2,95000,Transferencia,Completada,andres.vargas@gmail.com
+V0389,2026-08-30,C004,Juan Perez,Medellin,Hogar,N/A,5,320000,Tarjeta,Pendiente,juan.perez@gmail.com
+V0187,2026-02-08,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,2,75000,Transferencia,Cancelada,felipe.herrera@gmail.com
+V0382,2026-09-08,C000,Felipe Herrera,Bogota,Oficina,Silla ergonomica,5,520000,Nequi,Cancelada,felipe.herrera@gmail.com
+V0310,2026-06-04,C013,Maria Castillo,Armenia,Tecnologia,Portatil Lenovo,2,2800000,Tarjeta,Completada,maria.castillo@gmail.com
+V0636,2026-05-13,C006,Diego Castro,Pasto,Oficina,Lampara LED,1,75000,Tarjeta,Completada,diego.castro@gmail.com
+V0500,2026-09-20,C007,Laura Rodriguez,Cali,Hogar,Microondas,5,450000,Transferencia,Completada,correo_sin_arroba.com
+V0249,2026-01-14,C013,Maria Castillo,Armenia,Oficina,Impresora HP,5,620000,Nequi,Completada,maria.castillo@gmail.com
+V0614,2026-04-13,C008,Mateo Sanchez,Medellin,Tecnologia,Mouse Logitech,3,45000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0642,2026-06-01,C010,Santiago Moreno,Cali,Oficina,Escritorio,2,680000,Transferencia,Cancelada,santiago.moreno@gmail.com
+V0036,2026-04-28,C012,Andres Vargas,Manizales,Oficina,Lampara LED,1,75000,Tarjeta,Completada,andres.vargas@gmail.com
+V0146,2026-07-25,C002,Luis Gomez,Bogota,Oficina,Impresora HP,1,620000,Transferencia,Completada,luis.gomez@gmail.com
+V0170,2026-09-13,C009,Valentina Lopez,Bogota,Hogar,Cafetera,5,95000,Transferencia,Completada,valentina.lopez@gmail.com
+V0121,2026-02-22,C010,Santiago Moreno,Cali,Tecnologia,SSD 1TB,2,380000,Nequi,Pendiente,santiago.moreno@gmail.com
+V0066,2026-08-07,C012,Andres Vargas,Manizales,Hogar,Microondas,5,450000,Tarjeta,Completada,andres.vargas@gmail.com
+V0572,2026-05-09,C002,Luis Gomez,Bogota,Oficina,Lampara LED,3,75000,Tarjeta,Cancelada,luis.gomez@gmail.com
+V0378,2026-09-14,C010,Santiago Moreno,CALI,Oficina,Silla ergonomica,4,520000,Tarjeta,Completada,santiago.moreno@gmail.com
+V_DUP_10,2026-09-27,C003,Camila Ruiz,Cali,Tecnologia,SSD 1TB,diez,380000,Tarjeta,Pendiente,camila.ruiz@gmail.com
+V0102,2026-02-11,C005,Sofia Martinez,Bogota,Hogar,Cafetera,3,95000,Efectivo,Completada,sofia.martinez@gmail.com
+V0051,2026-02-05,C009,Valentina Lopez,Bogota,Tecnologia,Teclado Redragon,2,120000,Tarjeta,Pendiente,valentina.lopez@gmail.com
+V0372,2026-08-09,C001,Ana Torres,Pasto,Oficina,Impresora HP,1,620000,Efectivo,Cancelada,ana.torres@gmail.com
+V0572,2026-05-09,C002,Luis Gomez,Bogota,Oficina,Lampara LED,3,75000,Tarjeta,Cancelada,luis.gomez@gmail.com
+V0491,2026-06-27,C012,Andres Vargas,Manizales,Tecnologia,Teclado Redragon,5,,Tarjeta,Completada,andres.vargas@gmail.com
+V0348,2026-09-27,C007,Laura Rodriguez,Cali,Tecnologia,SSD 1TB,4,380000,Transferencia,Cancelada,laura.rodriguez@gmail.com
+V0488,2026-03-15,C001,Ana Torres,Pasto,Tecnologia,Audifonos Sony,5,210000,Transferencia,Completada,ana.torres@gmail.com
+V0237,2026-09-16,C009,Valentina Lopez,Bogota,Tecnologia,Portatil Lenovo,50,2800000,Transferencia,Completada,valentina.lopez@gmail.com
+V0481,2026-04-26,C008,Mateo Sanchez,Medellin,Oficina,Escritorio,2,680000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0374,2026-04-10,C001,Ana Torres,Pasto,Oficina,Escritorio,5,680000,Nequi,Pendiente,ana.torres@gmail.com
+V0291,2026-06-24,C005,Sofia Martinez,Bogota,Tecnologia,Monitor Samsung,2,750000,Transferencia,Completada,sofia.martinez@gmail.com
+V0093,2026-09-11,C010,Santiago Moreno,Cali,Tecnologia,Audifonos Sony,4,210000,Transferencia,Completada,santiago.moreno@gmail.com
+V0601,2026-03-27,C009,Valentina Lopez,Bogota,Oficina,Silla ergonomica,3,520000,Nequi,Completada,valentina.lopez@gmail.com
+V0647,2026-06-13,C005,Sofia Martinez,Bogota,Tecnologia,Monitor Samsung,1,750000,Efectivo,Completada,cliente.gmail.com
+V0130,2026-04-04,C008,Mateo Sanchez,Medellin,Oficina,Impresora HP,3,620000,Transferencia,Completada,mateo.sanchez@gmail.com
+V0461,2026-07-14,C006,Diego Castro,Pasto,Tecnologia,Webcam Logitech,3,180000,Transferencia,Pendiente,diego.castro@gmail.com
+V0473,2026-02-04,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,2,75000,Efectivo,Completada,felipe.herrera@gmail.com
+V0507,2026-04-11,C004,Juan Perez,Medellin,Tecnologia,SSD 1TB,4,380000,Transferencia,Completada,juan.perez@gmail.com
+V0320,2026-03-11,C008,Mateo Sanchez,Medellin,Oficina,Lampara LED,2,75000,Tarjeta,Pendiente,mateo.sanchez@gmail.com
+V0263,2026-08-12,C007,Laura Rodriguez,,Oficina,Impresora HP,1,620000,Tarjeta,Cancelada,laura.rodriguez@gmail.com
+V0662,2026-07-13,C010,Santiago Moreno,Cali,Oficina,Impresora HP,2,620000,Nequi,Pendiente,santiago.moreno@gmail.com
+V0638,2026-01-26,C002,Luis Gomez,Bogota,Tecnologia,Mouse Logitech,4,45000,Efectivo,Pendiente,luis.gomez@gmail.com
+V0177,2026-07-16,C008,Mateo Sanchez,Medellin,Oficina,Silla ergonomica,2,520000,Efectivo,Pendiente,mateo.sanchez@gmail.com
+V0398,2026-04-20,C011,Daniela Rojas,Pasto,tecnologia,Portatil Lenovo,4,2800000,Efectivo,Pendiente,daniela.rojas@gmail.com
+V0157,2026-05-17,C009,Valentina Lopez,Bogota,Tecnologia,Audifonos Sony,2,210000,Bitcoin,Completada,valentina.lopez@gmail.com
+V0044,2026-08-15,C008,Mateo Sanchez,Medellin,Tecnologia,Audifonos Sony,1,210000,Tarjeta,Completada,mateo.sanchez@gmail.com
+V0591,2026-05-15,C010,Santiago Moreno,Cali,Tecnologia,Teclado Redragon,1,120000,Efectivo,Completada,usuario@
+V0390,2026-06-16,C003,Camila Ruiz,Cali,Oficina,Silla ergonomica,2,520000,Tarjta,Pendiente,camila.ruiz@gmail.com
+V0523,2026-04-24,C001,Ana Torres,Pasto,Tecnologia,Teclado Redragon,3,120000,Efectivo,Cancelada,ana.torres@gmail.com
+V0493,2026-08-19,C001,Ana Torres,Pasto,Oficina,Lampara LED,3,75000,Transferencia,Pendient,ana.torres@gmail.com
+V0482,2026-01-17,C014,Felipe Herrera,Bogota,Oficina,Impresora HP,1,620000,Tarjeta,Cancelada,felipe.herrera@gmail.com
+V0503,2026-09-24,C015,Natalia Silva,Cali,Oficina,Silla ergonomica,2,520000,Efectivo,Pendiente,natalia.silva@gmail.com
+V0022,2026-01-06,C008,Mateo Sanchez,Medellin,Oficina,Silla ergonomica,3,520000,Tarjeta,Pendiente,mateo.sanchez@gmail.com
+V0518,2026-09-03,C002,Luis Gomez,Bogota,Hogar,Microondas,5,450000,Transferencia,Pendiente,luis.gomez@gmail.com
+V0073,2026-07-15,C003,Camila Ruiz,Cali,Tecnologia,Webcam Logitech,1,180000,Tarjeta,Cancelada,camila.ruiz@gmail.com
+V0634,2026-03-04,C002,Luis Gomez,Bogota,Tecnologia,Webcam Logitech,2,180000,Tarjeta,Completada,luis.gomez@gmail.com
+V0284,2026-06-21,C011,Daniela Rojas,Pasto,Oficina,Escritorio,1,2500000.99,Tarjeta,Cancelada,daniela.rojas@gmail.com
+V0006,2026-06-22,C005,Sofia Martinez,Bogota,Tecnologia,Monitor Samsung,2,750000,Tarjeta,Completada,sofia.martinez@gmail.com
+V0419,2026-08-27,C004,Juan Perez,Medellin,Tecnologia,Mouse Logitech,1,45000,Nequi,Completada,juan.perez@gmail.com
+V0153,2026-01-02,C009,Valentina Lopez,Bogota,Tecnologia,Teclado Redragon,2,120000,Transferencia,Cancelada,valentina.lopez@gmail.com
+V0074,2026-06-29,C004,Juan Perez,Medellin,Tecnologia,Audifonos Sony,4,210000,Nequi,Completada,juan.perez@gmail.com
+V0325,2026-05-20,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,3,75000,Tarjeta,Cancelada,felipe.herrera@gmail.com
+V0417,2026-06-18,C004,Juan Perez,MEDELLIN,Hogar,Microondas,3,450000,Nequi,Pendiente,juan.perez@gmail.com
+V0280,2026-03-19,C010,Santiago Moreno,Cali,Hogar,Microondas,5,450000,Tarjeta,Cancelada,santiago.moreno@gmail.com
+V0629,2026-03-03,C005,Sofia Martinez,Bogota,Hogar,Microondas,3,450000,Tarjeta,Completada,sofia.martinez@gmail.com
+V0070,2026-07-01,C004,Juan Perez,Medellin,Oficina,Lampara LED,,75000,Transferencia,Pendiente,juan.perez@gmail.com
+V0474,2026-07-11,C004,Juan Perez,Medellin,Oficina,Silla ergonomica,4,520000,Tarjeta,Pendiente,juan.perez@gmail.com
+V0355,2026-06-05,C009,Valentina Lopez,Bogota,Tecnologia,Portatil Lenovo,2,2800000,Tarjeta,Pendiente,valentina.lopez@gmail.com
+V0628,2026-07-03,C006,Diego Castro,Pasto,Hogar,Aspiradora,1,320000,Efectivo,Cancelada,diego.castro@gmail.com
+V0243,2026-03-08,C012,Andres Vargas,Manizales,Tecnologia,SSD 1TB,3,380000,Tarjeta,Pendiente,andres.vargas@gmail.com
+V0016,2026-06-11,C002,Luis Gomez,Bogota,Tecnologia,Audifonos Sony,5,210000,Efectivo,Pendiente,luis.gomez@gmail.com
+V0203,2026-09-12,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,1,75000,Nequi,Completada,felipe.herrera@gmail.com
+V0431,04-22-2026,C005,Sofia Martinez,Bogota,Oficina,Impresora HP,1,620000,Tarjeta,Completada,sofia.martinez@gmail.com
+V0225,2026-04-30,C004,Juan Perez,Medellin,Oficina,Escritorio,2,680000,Nequi,Completada,juan.perez@gmail.com
+V0424,2026-09-27,C013,Maria Castillo,Armenia,Oficina,Escritorio,1,680000,,Pendiente,maria.castillo@gmail.com
+V0376,2026-03-02,C005,Sofia Martinez,Bogota,Oficina,Impresora HP,5,620000,Efectivo,Completada,sofia.martinez@gmail.com
+V0311,2026-08-23,C004,Juan Perez,Medellin,Hogar,Aspiradora,5,320000,Tarjeta,Completada,juan.perez@gmail.com
+V0651,2026-07-01,C010,Santiago Moreno,Cali,Oficina,Impresora HP,4,620000,Efectivo,Completada,santiago.moreno@gmail.com
+V0570,2026-08-14,C002,Luis Gomez,Bogota,Hogar,Licuadora Oster,2,165000,Transferencia,completada,luis.gomez@gmail.com
+V0555,2026-06-29,C004,Juan Perez,Medellin,Tecnologia,Webcam Logitech,5,180000,Transferencia,Completada,juan.perez@gmail.com
+V0528,2026-08-20,C008,Mateo Sanchez,medellin,Tecnologia,Teclado Redragon,4,120000,Nequi,Completada,mateo.sanchez@gmail.com
+V0499,2026-03-09,C013,Maria Castillo,Armenia,Tecnologia,Portatil Lenovo,1,2800000,Tarjeta,Completada,maria.castillo@gmail.com
+V0375,2026-09-16,C005,Sofia Martinez,Bogota,Tecnologia,Teclado Redragon,4,120000,Transferencia,Pendiente,sofia.martinez@gmail.com
+V0024,2026-01-02,C007,Laura Rodriguez,Cali,Tecnologia,Monitor Samsung,4,750000,Nequi,Pendiente,laura.rodriguez@gmail.com
+V0506,2026-02-09,C007,Laura Rodriguez,Cali,Tecnologia,Portatil Lenovo,4,2800000,Nequi,Cancelada,laura.rodriguez@gmail.com
+V0033,2026-09-22,C011,Daniela Rojas,Pasto,Hogar,Cafetera,4,95000,Transferencia,Completada,daniela.rojas@gmail.com
+V0451,2026-05-04,C013,Maria Castillo,  Armenia  ,Oficina,Silla ergonomica,4,520000,Efectivo,Cancelada,maria.castillo@gmail.com
+V0438,2026-01-12,C004,Juan Perez,Medellin,Oficina,Impresora HP,1,620000,Nequi,Cancelada,juan.perez@gmail.com
+V0401,2026-04-26,C011,Daniela Rojas,Pasto,Hogar,Licuadora Oster,5,165000,Efectivo,Completada,daniela.rojas@gmail.com
+V0490,2026-07-16,C015,Natalia Silva,Cali,Oficina,Silla ergonomica,3,520000,Efectivo,Pendiente,natalia.silva@gmail.com
+V0061,2026-02-23,C014,Felipe Herrera,Bogota,Oficina,Silla ergonomica,3,520000,Efectivo,Cancelada,felipe.herrera@gmail.com
+V0345,2026-04-13,C009,Valentina Lopez,Bogota,Tecnologia,Audifonos Sony,1,210000,Efectivo,Completada,valentina.lopez@gmail.com
+V0200,2026-02-24,C004,Juan Perez,Medellin,Hogar,Aspiradora,4,320000,Efectivo,Cancelada,juan.perez@gmail.com
+V0009,2026-07-05,C009,Valentina Lopez,Bogota,Tecnologia,Portatil Lenovo,diez,2800000,Efectivo,Pendiente,valentina.lopez@gmail.com
+V0162,2026-01-11,C004,Juan Perez,Medellin,Oficina,Lampara LED,5,75000,Nequi,Pendiente,juan.perez@gmail.com
+V0222,2026-03-04,C007,Laura Rodriguez,Cali,Tecnologia,Portatil Lenovo,2,2800000,Transferencia,Completada,laura.rodriguez@gmail.com
+V0527,2026-09-24,C008,Mateo Sanchez,Medellin,Tecnologia,Webcam Logitech,2,180000,Transferencia,Cancelada,mateo.sanchez@gmail.com
+V0404,2026-09-02,C015,Natalia Silva,Cali,Hogar,Licuadora Oster,4,165000,Efectivo,Cancelada,natalia.silva@gmail.com
+V0583,2026-03-05,C015,Natalia Silva,CALI,Tecnologia,Producto desconocido,2,120000,Transferencia,Cancelada,natalia.silva@gmail.com
+V0522,2026-06-19,C011,Daniela Rojas,Pasto,Oficina,Lampara LED,4,75000,Transferencia,Completada,daniela.rojas@gmail.com
+V0545,2026-04-10,C001,Ana Torres,Pasto,Hogar,Microondas,2,450000,Transferencia,Pendiente,ana.torres@gmail.com
+V0133,2026-09-08,C004,Juan Perez,Medellin,Tecnologia,SSD 1TB,4,380000,Efectivo,Pendiente,correo_sin_arroba.com
+V0648,2026-01-30,C015,Natalia Silva,Cali,Tecnologia,Webcam Logitech,3,180000,Transferencia,Pendiente,natalia.silva@gmail.com
+V0560,2026-05-08,C003,Camila Ruiz,,Tecnologia,SSD 1TB,2,380000,Efectivo,Pendiente,camila.ruiz@gmail.com
+V0385,2026-04-27,C013,Maria Castillo,,Tecnologia,Webcam Logitech,5,180000,Tarjeta,Pendiente,maria.castillo@gmail.com
+V0286,2026-03-18,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,5,75000,Nequi,Completada,felipe.herrera@gmail.com
+V0129,2026-07-14,C013,Maria Castillo,Armenia,Hogar,Microondas,5,450000,Nequi,Completada,maria.castillo@gmail.com
+V0092,22/08/2026,C014,Felipe Herrera,Bogota,Tecnologia,Webcam Logitech,1,180000,Transferencia,Pendiente,felipe.herrera@gmail.com
+V0028,2026-06-07,C001,Ana Torres,Pasto,Tecnologia,Teclado Redragon,3,120000,Efectivo,Completada,ana.torres@gmail.com
+V0479,2026-04-09,C009,Valentina Lopez,Bogota,Tecnologia,Monitor Samsung,2,750000,Nequi,Cancelada,valentina.lopez@gmail.com
+V0045,2026-02-17,C011,Daniela Rojas,Pasto,Oficina,Silla ergonomica,1,520000,Efectivo,Completada,daniela.rojas@gmail.com
+V0020,2026-03-20,C013,Maria Castillo,Armenia,Tecnologia,Mouse Logitech,1,45000,Efectivo,Pendiente,maria.castillo@gmail.com
+V0456,2026-01-21,C011,Daniela Rojas,Pasto,Oficina,Escritorio,5,680000,Tarjeta,Completada,daniela.rojas@gmail.com
+V0543,2026-03-27,C011,Daniela Rojas,Pasto,Oficina,Silla ergonomica,2,520000,Transferencia,Cancelada,daniela.rojas@gmail.com
+V0236,2026-06-16,C010,Santiago Moreno,Cali,Oficina,Lampara LED,5,75000,Transferencia,Pendiente,santiago.moreno@gmail.com
+V0584,2026-05-07,C007,Laura Rodriguez,Cali,Hogar,Cafetera,2,95000,Nequi,Pendiente,laura.rodriguez@gmail.com
+V0496,2026-05-18,C012,Andres Vargas,Manizales,Tecnologia,Teclado Redragon,1,120000,Efectivo,Cancelada,andres.vargas@gmail.com
+V0589,2026-07-18,C015,Natalia Silva,Cali,Hogar,Cafetera,2,95000,Transferencia,Cancelada,natalia.silva@gmail.com
+V0639,2026-09-12,C007,Laura Rodriguez,Cali,Oficina,Impresora HP,4,620000,tarjeta,Cancelada,laura.rodriguez@gmail.com
+V_DUP_08,2026-05-15,C010,Santiago Moreno,Cali,Tecnologia,Teclado Redragon,1,120000,Efectivo,Completada,usuario@
+V0332,2026-02-08,C007,Laura Rodriguez,Cali,Tecnologia,Portatil Lenovo,1,2800000,Transferencia,Cancelada,laura.rodriguez@gmail.com
+V0578,2026-02-15,C002,Luis Gomez,  Bogota  ,Tecnologia,Audifonos Sony,4,210000,Tarjeta,Completada,luis.gomez@gmail.com
+V0380,2026-03-13,C010,Santiago Moreno,Cali,Hogar,Licuadora Oster,5,165000,Nequi,  Pendiente  ,santiago.moreno@gmail.com
+V0360,2026-07-27,C005,Sofia Martinez,Bogota,Hogar,Microondas,2,450000,Nequi,Cancelada,
+V0470,2026-03-13,C013,Maria Castillo,Armenia,Hogar,Cafetera,2,95000,Transferencia,completada,maria.castillo@gmail.com
+V0347,2026-02-14,C013,Maria Castillo,Armenia,Oficina,Silla ergonomica,2,520000,Tarjeta,Cancelada,maria.castillo@gmail.com
+V0054,2026-06-11,C010,Santiago Moreno,Cali,Oficina,Escritorio,5,680000,Nequi,Completada,santiago.moreno@gmail.com
+V0218,2026-08-03,C006,Diego Castro,Pasto,Oficina,Lampara LED,5,75000,Efectivo,Cancelada,diego.castro@gmail.com
+V0351,2026-04-04,C000,Natalia Silva,Cali,Tecnlogia,Impresora HP,5,620000,Efectivo,Cancelada,natalia.silva@gmail.com
+V0657,2026-01-31,C012,Andres Vargas,Manizales,Tecnologia,Monitor Samsung,3,750000,Tarjeta,Completada,andres.vargas@gmail.com
+V0323,2026-08-31,C007,Laura Rodriguez,Cali,Oficina,Impresora HP,5,620000,Nequi,Completada,laura.rodriguez@gmail.com
+V0344,03-22-2026,C009,Valentina Lopez,Bogota,Tecnologia,Portatil Lenovo,3,,Efectivo,Cancelada,valentina.lopez@gmail.com
+V0108,2026-01-15,C005,Sofia Martinez,Bogota,Hogar,Aspiradora,,320000,Transferencia,Cancelada,sofia.martinez@gmail.com
+V0609,2026-04-25,C009,Valentina Lopez,Bogota,Tecnologia,Webcam Logitech,4,180000,Tarjta,Completada,valentina.lopez@gmail.com
+V0489,2026-05-04,C005,Sofia Martinez,Bogota,Tecnologia,Monitor Samsung,5,750000,Transferencia,Pendiente,sofia.martinez@gmail.com
+V0004,2026-08-03,C004,Juan Perez,Medellin,Tecnologia,SSD 1TB,5,380000,Efectivo,Cancelada,juan.perez@gmail.com
+V0552,2026-08-06,C008,Mateo Sanchez,Medellin,Oficina,Silla ergonomica,2,520000,Tarjeta,Pendiente,mateo.sanchez@gmail.com
+V0276,2026-09-17,C010,Santiago Moreno,  Cali  ,Tecnologia,Mouse Logitech,3,45000,Tarjeta,Cancelada,santiago.moreno@gmail.com
+V0396,2026-07-22,C011,Daniela Rojas,Pasto,Oficina,Silla ergonomica,4,520000,Nequi,Completada,
+V0086,2026-05-27,C014,Felipe Herrera,Bogota,Tecnologia,Mouse Logitech,3,45000,Efectivo,Cancelada,felipe.herrera@gmail.com
+V0608,2026-03-18,C008,Mateo Sanchez,Medellin,Hogar,Cafetera,4,95000,Efectivo,Completada,mateo.sanchez@gmail.com
+V0043,2026-08-05,C009,Valentina Lopez,Bogota,Hogar,Microondas,2,450000,Efectivo,Cancelada,valentina.lopez@gmail.com
+V0418,2026-05-14,C012,Andres Vargas,Manizales,Oficina,Escritorio,1,680000,Nequi,Pendiente,andres.vargas@gmail.com
+V0487,2026-01-17,C015,Natalia Silva,Cali,Tecnologia,Teclado Redragon,3,120000,Efectivo,Cancelada,natalia.silva@gmail.com
+V0099,2026-08-19,C012,Andres Vargas,Manizales,Oficina,Impresora HP,4,620000,Nequi,Completada,andres.vargas@gmail.com
+V0334,2026-01-18,C011,Daniela Rojas,Pasto,Tecnologia,Webcam Logitech,4,180000,efectivo,Completada,daniela.rojas@gmail.com
+V0152,2026-03-22,C004,Juan Perez,Medellin,Tecnologia,Portatil Lenovo,1,2800000,Efectivo,completada,juan.perez@gmail.com
+V0023,2026-06-24,C015,Natalia Silva,Cali,Oficina,Silla ergonomica,3,520000,Tarjeta,Cancelada,natalia.silva@gmail.com
+V0250,2026-06-23,C003,Camila Ruiz,Cali,Tecnologia,Portatil Lenovo,3,2800000,Nequi,Completada,camila.ruiz@gmail.com
+V0440,2026-03-21,C004,Juan Perez,Medellin,Hogar,Microondas,3,450000,Nequi,Completada,@gmail.com
+V0631,2026-07-02,C003,Camila Ruiz,Cali,Tecnologia,Teclado Redragon,2,120000,Transferencia,Pendiente,camila.ruiz@gmail.com
+V0412,2026-04-06,C012,Andres Vargas,Manizales,Hogar,Microondas,3,450000,Tarjeta,Pendiente,andres.vargas@gmail.com
+V0264,2026-08-08,C015,Natalia Silva,Cali,Tecnologia,Teclado Redragon,3,120000,Transferencia,Pendiente,natalia.silva@gmail.com
+V0595,2026-04-15,C005,Sofia Martinez,Bogota,Tecnologia,Teclado Redragon,5,120000,Efectivo,Pendiente,sofia.martinez@gmail.com
+V0395,2026-05-28,C999,Valentina Lopez,Bogota,Hogar,Licuadora Oster,3,165000,Tarjeta,Pendiente,valentina.lopez@gmail.com
+V0421,2026-04-24,C015,Natalia Silva,Cali,Tecnologia,Portatil Lenovo,3,2800000,Efectivo,Completada,natalia.silva@gmail.com
+V0265,28/02/2026,C011,Daniela Rojas,pasto,Hogar,Aspiradora,3,320000,Transferencia,Completada,daniela.rojas@gmail.com
+V0013,2026-03-29,C011,Daniela Rojas,Pasto,Tecnologia,Portatil Lenovo,1,2800000,efectivo,Completada,daniela.rojas@gmail.com
+V0145,2026-01-27,C008,Mateo Sanchez,,Hogar,Cafetera,2,95000,Nequi,Cancelada,mateo.sanchez@gmail.com
+V0371,2026-08-29,C001,Ana Torres,Pasto,Tecnologia,Portatil Lenovo,4,2800000,Nequi,Pendiente,ana.torres@gmail.com
+V0277,2026-01-30,C008,Mateo Sanchez,Medellin,Hogar,Microondas,1,450000,Nequi,Cancelada,mateo.sanchez@gmail.com
+V0599,2026-03-03,C011,Daniela Rojas,Pasto,Tecnologia,SSD 1TB,2,380000,Tarjeta,Pendiente,daniela.rojas@gmail.com
+V0198,2026-02-07,C011,Daniela Rojas,PASTO,Oficina,Silla ergonomica,2,520000,Transferencia,Cancelada,daniela.rojas@gmail.com
+V0443,2026-08-17,C002,Luis Gomez,Bogota,Oficina,Escritorio,1,680000,Tarjeta,Completada,luis.gomez@gmail.com
+V0590,2026-08-30,C009,Valentina Lopez,Bogota,Oficina,Lampara LED,2,75000,Tarjeta,Completada,valentina.lopez@gmail.com
+V0623,2026-02-08,C003,Camila Ruiz,Cali,Oficina,Lampara LED,-2,75000,Tarjeta,Cancelada,camila.ruiz@gmail.com
+V0551,2026-07-07,C002,Luis Gomez,Bogota,Tecnologia,Portatil Lenovo,5,2800000,Tarjeta,Pendiente,luis.gomez@gmail.com
+V0644,2026-04-13,C007,Laura Rodriguez,Cali,Tecnologia,Monitor Samsung,4,750000,Efectivo,Pendiente,laura.rodriguez@gmail.com
+V0497,2026-07-19,C012,Andres Vargas,manizales,Tecnologia,Webcam Logitech,2,180000,Nequi,Cancelada,andres.vargas@gmail.com
+V0125,2026-03-20,C011,Daniela Rojas,Pasto,Hogar,Licuadora Oster,4,165000,Transferencia,Completada,daniela.rojas@gmail.com
+V0319,2026-03-31,C006,Diego Castro,pasto,Oficina,Silla ergonomica,3,520000,Transferencia,Pendiente,diego.castro@gmail.com
+V0315,17/09/2026,C009,Valentina Lopez,Bogota,Oficina,Silla ergonomica,5,520000,Tarjeta,Cancelada,valentina.lopez@gmail.com
+V0329,2026-02-10,C005,Sofia Martinez,Bogota,Hogar,Cafetera,1,95000,Nequi,Pendiente,sofia.martinez@gmail.com
+V0627,2026-03-26,C002,Luis Gomez,Bogota,Tecnologia,Monitor Samsung,1,750000,Transferencia,Cancelada,luis.gomez@gmail.com
+V0657,2026-01-31,C012,Andres Vargas,Manizales,Tecnologia,Monitor Samsung,3,750000,Tarjeta,Completada,andres.vargas@gmail.com
+V_DUP_07,2026-06-28,C007,Laura Rodriguez,Cali,Oficina,Escritorio,1,680000,Nequi,Cancelada,laura.rodriguez@gmail.com
+V0343,2026-06-27,C013,Maria Castillo,Armenia,Oficina,Lampara LED,3,75000,Tarjeta,Pendiente,maria.castillo@gmail.com
+V0059,2026-05-26,C015,Natalia Silva,Cali,Tecnologia,Audifonos Sony,3,0,Efectivo,Cancelada,natalia.silva@gmail.com
+V0610,2026-05-19,C007,Laura Rodriguez,Cali,Hogar,Licuadora Oster,3,165000,Tarjeta,pendiente,laura.rodriguez@gmail.com
+V0333,2026-01-16,C009,Valentina Lopez,Bogota,Tecnologia,Webcam Logitech,2,180000,Efectivo,Pendiente,valentina.lopez@gmail.com
+V0452,2026-08-26,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,2,380000,Tarjeta,Pendiente,felipe.herrera@gmail.com
+V0422,2026-07-11,C008,Mateo Sanchez,Medellin,Tecnologia,Monitor Samsung,4,750000,Transferencia,Pendiente,mateo.sanchez@gmail.com
+V0288,2026-03-08,C012,Andres Vargas,Manizales,Oficina,Lampara LED,4,75000,Tarjeta,Cancelada,andres.vargas@gmail.com
+V0538,2026-06-28,C007,Laura Rodriguez,Cali,Oficina,Escritorio,1,680000,Nequi,Cancelada,laura.rodriguez@gmail.com
+V0272,2026-03-20,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,,210000,  Tarjeta  ,Completada,sofia.martinez@gmail.com
+V0317,2026-02-04,C012,Andres Vargas,Manizales,Tecnologia,Mouse Logitech,3,45000,Nequi,Completada,andres.vargas@gmail.com
+V0386,2026-07-14,C008,Mateo Sanchez,Medellin,Tecnologia,Monitor Samsung,diez,750000,Efectivo,Pendiente,mateo.sanchez@gmail.com
+V0112,2026-04-19,C005,Sofia Martinez,Bogota,Hogar,Aspiradora,3,320000,Transferencia,Cancelada,sofia.martinez@gmail.com
+V0151,2026-02-20,C010,Santiago Moreno,Cali,Tecnologia,Mouse Logitech,5,45000,Efectivo,Pendiente,santiago.moreno@gmail.com
+V0185,2026-06-19,C001,Ana Torres,Pasto,Tecnologia,Monitor Samsung,5,750000,Tarjeta,Cancelada,sin_correo
+V0457,2026-04-22,C013,Maria Castillo,  Armenia  ,Tecnologia,Webcam Logitech,5,180000,Transferencia,Completada,maria.castillo@gmail.com
+V0502,2026-07-18,C001,Ana Torres,Pasto,OTRO,Portatil Lenovo,4,2800000,Tarjeta,Pendiente,@gmail.com
+V0655,2026-04-23,C001,Ana Torres,Pasto,Tecnologia,Audifonos Sony,5,,Tarjeta,Pendiente,ana.torres@gmail.com
+V0559,2026-01-31,C013,Maria Castillo,Armenia,Tecnologia,Webcam Logitech,4,180000,Nequi,Pendiente,maria.castillo@gmail.com
+V0453,2026-03-10,C007,Laura Rodriguez, Cali ,Hogar,Aspiradora,5,320000,Transferencia,Completada,laura.rodriguez@gmail.com
+V0114,2026-01-10,C014,Felipe Herrera,Bogota,Tecnologia,Teclado Redragon,4,120000,Tarjeta,Cancelada,felipe.herrera@gmail.com
+V0179,2026-05-17,C006,Diego Castro,Pasto,Hogar,Licuadora Oster,5,165000,Tarjeta,Cancelada,diego.castro@gmail.com
+V_DUP_03,2026-03-08,C001,Ana Torres,Pasto,Tecnologia,Mouse Logitech,3,45000,Nequi,Completada,ana.torres@gmail.com
+V0207,2026-08-01,C015,Natalia Silva,Cali,Tecnologia,Portatil Lenovo,3,2800000,efectivo,Completad,natalia.silva@gmail.com
+V0275,2026-08-15,C008,Mateo Sanchez,Medellin,Tecnologia,Teclado Redragon,4,120000,Nequi,Cancelada,mateo.sanchez@gmail.com
+V0279,2026-08-19,CLIENTE_X,Santiago Moreno,Cali,Oficina,Silla ergonomica,1,520000,Efectivo,Cancelada,santiago.moreno@gmail.com
+V0213,2026-08-30,C006,Diego Castro,Pasto,Tecnologia,Teclado Redragon,2,120000,Tarjeta,Completad,diego.castro@gmail.com
+V0082,2026-06-10,C002,Luis Gomez,Bogota,Oficina,Lampara LED,3,75000,Tarjeta,Pendiente,luis.gomez@gmail.com
+V0259,2026-01-29,C004,Juan Perez,Medellin,Hogar,Aspiradora,diez,320000,Tarjta,Completada,juan.perez@gmail.com
+V0630,2026-01-21,C013,Maria Castillo,Armenia,Oficina,Lampara LED,3,75000,Efectivo,Cancelada,sin_correo
+V0035,2026-04-23,C009,Valentina Lopez,,Tecnologia,Audifonos Sony,5,210000,Tarjeta,Completada,valentina.lopez@gmail.com
+V0267,2026/05/05,C007,Laura Rodriguez,Cali,Oficina,Impresora HP,1,620000,Transferencia,Pendiente,laura.rodriguez@gmail.com
+V0095,2026-08-26,C003,Camila Ruiz,Cali,Tecnologia,Webcam Logitech,5,180000,Tarjeta,Pendiente,camila.ruiz@gmail.com
+V0113,2026-05-23,C006,Diego Castro,Pasto,Tecnologia,Webcam Logitech,4,180000,Transferencia,Cancelada,diego.castro@gmail.com
+V0270,2026-09-19,C011,Daniela Rojas,Pasto,Tecnologia,Teclado Redragon,5,120000,  Efectivo  ,Pendient,daniela.rojas@gmail.com
+V0163,2026-08-29,C001,Ana Torres, Pasto,Tecnologia,Webcam Logitech,2,180000,Transferencia,Cancelada,@gmail.com
+V0363,2026-06-26,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,3,380000,Transferencia,Completada,felipe.herrera@gmail.com
+V0402,2026-08-30,C002,Luis Gomez,Bogota,Hogar,Aspiradora,3,320000,Tarjeta,Pendiente,luis.gomez@gmail.com
+V0038,2026-03-09,C011,Daniela Rojas,Pasto,Hogar,Microondas,2,450000,Transferencia,Completada,daniela.rojas@gmail.com
+V0184,2026-07-17,C008,Mateo Sanchez,Medellin,Tecnologia,SSD 1TB,4,380000,Efectivo,Cancelada,mateo.sanchez@gmail.com
+V0282,2026-08-13,C004,Juan Perez,Medellin,Tecnologia,SSD 1TB,diez,380000,Efectivo,Cancelada,juan.perez@gmail.com
+V0550,2026-09-19,C012,Andres Vargas,Manizales,Tecnologia,Webcam Logitech,4,180000,Tarjeta,Pendiente,andres.vargas@gmail.com
+V0405,2026-02-15,C006,Diego Castro,Pasto,Tecnologia,Portatil Lenovo,1,2800000,Efectivo,Pendiente,diego.castro@gmail.com
+V0252,2026-02-16,C012,Andres Vargas,Manizales,Oficina,Lampara LED,1,75000,Efectivo,Cancelada,andres.vargas@gmail.com
+V0155,2026-08-21,C005,Sofia Martinez,Bogota,Tecnologia,SSD 1TB,3,380000,  Tarjeta  ,Pendiente,sofia.martinez@gmail.com
+V0504,2026-05-18,C007,Laura Rodriguez,Cali,Tecnologia,Monitor Samsung,2,750000,Nequi,Cancelada,laura.rodriguez@gmail.com
+V0432,2026-01-31,C007,Laura Rodriguez,Cali,Hogar,Cafetera,1,95000,Tarjeta,Cancelada,laura.rodriguez@gmail.com
+V0316,2026-07-18,C014,Felipe Herrera,Bogota,Hogar,Microondas,1,450000,Nequi,  Cancelada  ,felipe.herrera@gmail.com
+V0531,2026-08-07,C003,Camila Ruiz,Cali,Hogar,Cafetera,5,95000,Transferencia,Completada,camila.ruiz@gmail.com
+V0478,2026-04-02,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,4,380000,Tarjeta,Completada,felipe.herrera@gmail.com
+V0533,2026-04-12,C001,Ana Torres,pasto,Hogarrr,SSD 1TB,5,380000,Transferencia,Pendiente,ana.torres@gmail.com
+V0027,2026-01-01,C009,Valentina Lopez,Bogota,Tecnologia,Webcam Logitech,5,0,  Nequi  ,Cancelada,valentina.lopez@gmail.com
+V0306,2026-02-20,C004,Juan Perez,Medellin,Tecnlogia,Mouse Logitech,3,N/A,Nequi,Completada,juan.perez@gmail.com
+V0166,2026-05-28,C006,Diego Castro,Pasto,Hogar,Aspiradora,4,320000,Transferencia,Pendiente,diego.castro@gmail.com
+V0476,2026-07-30,C001,Ana Torres, Pasto,Oficina,Silla ergonomica,100,520000,Tarjeta,Completada,ana.torres@gmail.com
+V0079,2026-08-12,C007,Laura Rodriguez,Cali,Hogar,Cafetera,3,95000,Tarjeta,Cancelada,laura.rodriguez@gmail.com
+V0021,2026-07-17,C007,Laura Rodriguez,,Oficina,Escritorio,diez,680000,Tarjta,Pendiente,laura.rodriguez@gmail.com
+V0080,2026-05-11,C015,Natalia Silva,Cali,Oficina,Escritorio,2,680000,Tarjeta,Pendiente,
+V0480,2026-02-10,C005,Sofia Martinez,Bogota,Tecnologia,Webcam Logitech,4,180000,Nequi,Cancelada,sofia.martinez@gmail.com
+V0643,2026-02-01,C015,Natalia Silva,Cali,Oficina,Silla ergonomica,4,520000,Tarjeta,cancelada,natalia.silva@gmail.com
+V0239,2026-06-23,C015,Natalia Silva,Cali,Tecnologia,Audifonos Sony,4,210000,Transferencia,Cancelada,natalia.silva@gmail.com
+V0170,2026-09-13,C009,Valentina Lopez,Bogota,Hogar,Cafetera,5,95000,Transferencia,Completada,valentina.lopez@gmail.com
+V0645,2026-07-15,C013,Maria Castillo,Armenia,Oficina,Silla ergonomica,1,520000,Nequi,Cancelada,maria.castillo@gmail.com
+V0131,2026-06-24,C006,Diego Castro,Pasto,Tecnologia,Webcam Logitech,3,180000,Nequi,Pendiente,diego.castro@gmail.com
+V0434,2026-07-11,C012,Andres Vargas,Manizales,Oficina,Lampara LED,diez,75000,Transferencia,Cancelada,andres.vargas@gmail.com
+V0300,2026-03-12,C014,Felipe Herrera,Bogota,Tecnologia,Audifonos Sony,5,210000,Nequi,Completada,felipe.herrera@gmail.com
+V0083,2026-06-08,C015,Natalia Silva,Cali,Tecnologia,Portatil Lenovo,5,2800000,Transferencia,Cancelada,sin_correo
+V0067,2026-01-19,C002,Luis Gomez,Bogota,Hogarrr,Licuadora Oster,2,165000,Nequi,Pendiente,luis.gomez@gmail.com
+V0573,27/01/2026,C011,Daniela Rojas,Pasto,Hogar,Licuadora Oster,2,165000,Transferencia,Pendiente,daniela.rojas@gmail.com
+V0077,2026-01-15,C014,Felipe Herrera,Bogota,Oficina,Silla ergonomica,3,520000,Tarjeta,Cancelada,felipe.herrera@gmail.com
+V0143,2026-03-06,C001,Ana Torres,Pasto,Oficina,Silla ergonomica,3,520000,Transferencia,Completada,ana.torres@gmail.com
+V0439,2026-08-06,C011,Daniela Rojas,Pasto,Tecnologia,SSD 1TB,5,380000,Transferencia,Completada,daniela.rojas@gmail.com
+V0042,2026-05-08,C012,Andres Vargas,Manizales,Hogar,Cafetera,1,95000,Efectivo,Completada,andres.vargas@gmail.com
+V0387,2026-02-26,C004,Juan Perez,Medellin,Tecnologia,Mouse Logitech,5,45000,Efectivo,Completada,juan.perez@gmail.com
+V0123,2026-02-05,C007,Laura Rodriguez,Cali,Oficina,Lampara LED,3,75000,Nequi,Completada,laura.rodriguez@gmail.com
+V0605,2026-03-27,C006,Diego Castro,Pasto,Tecnologia,Producto_X,4,45000,Nequi,Completada,diego.castro@gmail.com
+V0192,2026-01-15,C003,Camila Ruiz,Cali,Tecnologia,SSD 1TB,3,380000,Tarjeta,  Cancelada  ,camila.ruiz@gmail.com
+V0077,2026-01-15,C014,Felipe Herrera,Bogota,Oficina,Silla ergonomica,3,520000,Tarjeta,Cancelada,felipe.herrera@gmail.com
+V0602,2026-03-02,C012,Andres Vargas,manizales,Tecnologia,Webcam Logitech,3,180000,Tarjeta,Cancelada,andres.vargas@gmail.com
+V0460,2026-07-23,C010,Santiago Moreno,Cali,Tecnologia,SSD 1TB,2,380000,Efectivo,Pendiente,santiago.moreno@gmail.com
+V0588,2026-02-06,C002,Luis Gomez,Bogota,Tecnologia,Audifonos Sony,4,210000,Tarjeta,Cancelada,luis.gomez@gmail.com
+V0199,2026-05-09,C010,Santiago Moreno,Cali,Tecnologia,Portatil Lenovo,4,2800000,Transferencia,Cancelada,santiago.moreno@gmail.com
+V0202,2026-05-21,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,4,75000,Tarjeta,Pendiente,felipe.herrera@gmail.com
+V0377,2026-07-07,C007,Laura Rodriguez,Cali,Hogar,Cafetera,3,95000,Efectivo,Completada,laura.rodriguez@gmail.com
+V0231,2026-07-05,C002,Luis Gomez,Bogota,Hogar,Microondas,,450000,Tarjeta,Cancelada,luis.gomez@gmail.com
+V0454,2026-02-10,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,3,210000,Transferencia,Cancelada,sofia.martinez@gmail.com
+V0208,2026-07-07,C003,Camila Ruiz,Cali,Tecnologia,Webcam Logitech,5,180000,Nequi,Completada,camila.ruiz@gmail.com
+V0258,2026-09-07,C002,Luis Gomez,Bogota,Tecnologia,Portatil Lenovo,5,2800000,Nequi,Completada,luis.gomez@gmail.com
+V0581,2026-06-29,C011,Daniela Rojas,pasto,Tecnologia,Monitor Samsung,4,750000,Efectivo,Pendiente,daniela.rojas@gmail.com
+V0658,2026-02-26,C010,  Santiago Moreno  ,Cali,Tecnologia,SSD 1TB,2,380000,Nequi,Completada,santiago.moreno@gmail.com
+V0321,2026-05-31,C013,Maria Castillo,Armenia,Hogar,Microondas,1,450000,Efectivo,Completada,@gmail.com
+V0427,2026-03-01,C014,Felipe Herrera,Bogota,Oficina,Producto desconocido,4,520000,efectivo,Pendiente,felipe.herrera@gmail.com
+V0597,2026-01-30,C007,Laura Rodriguez,Cali,tecnologia,SSD 1TB,2,380000,Efectivo,Completada,laura.rodriguez@gmail.com
+V0557,2026-03-28,C006,Diego Castro,Pasto,Oficina,Silla ergonomica,3,520000,Nequi,Pendiente,diego.castro@gmail.com
+V0049,2026-02-01,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,1,210000,Nequi,Completada,sofia.martinez@gmail.com
+V0295,2026-03-26,C003,Camila Ruiz,Cali,Tecnologia,Monitor Samsung,5,750000,Transferencia,Completada,camila.ruiz@gmail.com
+V0524,2026-09-14,C006,Diego Castro,Pasto,Hogar,Aspiradora,4,320000,Efectivo,Cancelada,diego.castro@gmail.com
+V0244,2026-03-04,C009,Valentina Lopez,Bogota,Oficina,Silla ergonomica,,520000,Transferencia,Cancelada,valentina.lopez@gmail.com
+V0399,2026-05-20,C005,Sofia Martinez,Bogota,Hogar,Licuadora Oster,5,165000,Efectivo,Completada,sofia.martinez@gmail.com
+V0230,2026-09-27,C003,Camila Ruiz,Cali,Tecnologia,SSD 1TB,diez,380000,Tarjeta,Pendiente,camila.ruiz@gmail.com
+V0105,2026-07-19,C004,Juan Perez,Medellin,Oficina,Impresora HP,4,620000,Tarjeta,Pendiente,juan.perez@gmail.com
+V0395,2026-05-28,C999,Valentina Lopez,Bogota,Hogar,Licuadora Oster,3,165000,Tarjeta,Pendiente,valentina.lopez@gmail.com
+V0368,2026-09-21,C013,Maria Castillo,Armenia,Oficna,Monitor Samsung,4,750000,Transferencia,Cancelada,maria.castillo@gmail.com
+V0034,2026-06-23,C004,Juan Perez,Medellín,Tecnologia,Audifonos Sony,1,210000,Tarjeta,Pendiente,juan.perez@gmail.com
+V0209,2026-06-01,C005,Sofia Martinez,Bogota,Hogar,Licuadora Oster,4,165000,Nequi,Completada,sofia.martinez@gmail.com
+V0303,2026-02-16,C003,Camila Ruiz,Cali,Oficina,Impresora HP,4,-50000,Efectivo,Completad,camila.ruiz@gmail.com
+V0064,2026-02-17,C008,  Mateo Sanchez  ,Medellin,Tecnologia,Portatil Lenovo,1,2800000,Transferencia,Cancelada,mateo.sanchez@gmail.com
+V0150,2026-08-08,C015,Natalia Silva,Cali,Hogar,Microondas,3,450000,Nequi,Pendiente,natalia.silva@gmail.com
+V0257,2026-02-28,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,5,210000,Nequi,Cancelada,sofia.martinez@gmail.com
+V0294,2026-03-09,C006,Diego Castro,Pasto,Hogar,Licuadora Oster,5,165000,Transferencia,Completada,diego.castro@gmail.com
+V0165,2026-06-14,C006,Diego Castro,Pasto,Hogar,Aspiradora,3,320000,Tarjeta,Desconocido,diego.castro@gmail.com
+V0274,2026-06-15,C015,Natalia Silva,Cali,Hogar,Licuadora Oster,5,165000,Nequi,Completada,natalia.silva@gmail.com
+V0205,2026-02-19,C005,Sofia Martinez,Bogota,Oficina,  Lampara LED  ,2,75000,Tarjeta,Cancelada,sofia.martinez@gmail.com
+V0058,2026-03-09,C004,Juan Perez,medellin,Oficina,Silla ergonomica,3,520000,Nequi,Completada,juan.perez@gmail.com
+V0055,2026-05-03,C011,Daniela Rojas,Pasto,Tecnologia,SSD 1TB,3,380000,Nequi,Cancelada,daniela.rojas@gmail.com
+V0149,2026-04-26,C010,Santiago Moreno,Cali,Tecnologia,Webcam Logitech,5,180000,Transferencia,Cancelada,santiago.moreno@gmail.com
+V0391,2026-08-24,C007,Laura Rodriguez,Cali,Hogar,Cafetera,2,95000,Nequi,  Pendiente  ,laura.rodriguez@gmail.com
+V0026,2026-03-20,C009,Valentina Lopez,Bogota,Oficina,Escritorio,2,680000,Nequi,Completada,valentina.lopez@gmail.com
+V0632,2026-05-14,C001,Ana Torres,Pasto,Oficina,Lampara LED,3,75000,Efectivo,Completada,ana.torres@gmail.com
+V0536,2026-02-28,C006,Diego Castro,Pasto,Tecnologia,Audifonos Sony,4,210000,nequi,CANCELADA,diego.castro@gmail.com
+V0014,2026-04-23,C008,Mateo Sanchez,Medellin,Hogar,Aspiradora,3,320000,Nequi,Completada,mateo.sanchez@gmail.com
+V0433,2026-04-03,C001,Ana Torres,Pasto,Tecnologia,Portatil Lenovo,4,2800000,Efectivo,Pendiente,ana.torres@gmail.com
+V0293,2026-09-27,C009,Valentina Lopez,Bogota,Tecnologia,Webcam Logitech,5,180000,Tarjeta,pendiente,valentina.lopez@gmail.com
+V0547,2026-09-08,C012,Andres Vargas,Manizales,Oficina,Impresora HP,4,620000,Efectivo,Completada,andres.vargas@gmail.com
+V0428,2026-09-19,C010,Santiago Moreno,Cali,Hogar,Microondas,1,450000,Transferencia,Completada,santiago.moreno@gmail.com
+V0492,2026-06-24,C007,Laura Rodriguez,Cali,Tecnologia,Audifonos Sony,1,210000,Transferencia,Cancelada,laura.rodriguez@gmail.com
+V0361,2026-03-22,C002,Luis Gomez,Bogota,Tecnologia,SSD 1TB,1,380000,Transferencia,Cancelada,luis.gomez@gmail.com
+V0119,2026-01-14,C005,Sofia Martinez,Bogota,Tecnologia,Teclado Redragon,5,99999999,Neq,Pendiente,sofia.martinez@gmail.com
+V0331,2026-01-22,C008,Mateo Sanchez,Medellin,Hogar,Cafetera,4,95000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0556,2026-04-16,C010,Santiago Moreno,Cali,Tecnologia,Monitor Samsung,2,750000,Tarjeta,Pendiente,santiago.moreno@gmail.com
+V0516,2026-09-13,C002,Luis Gomez,Bogota,Oficina,Impresora HP,4,620000,Efectivo,Pendiente,luis.gomez@gmail.com
+V0183,2026-01-23,C014,Felipe Herrera,Bogota,Tecnologia,Webcam Logitech,4,180000,Nequi,Pendiente,felipe.herrera@gmail.com
+V0136,2026-06-26,C010,Santiago Moreno,Cali,Hogar,Cafetera,diez,95000,Transferencia,Pendiente,santiago.moreno@gmail.com
+V0354,2026-05-09,C015,Natalia Silva,Cali,Tecnologia,Portatil Lenovo,1,2800000,Efectivo,Pendiente,natalia.silva@gmail.com
+V0298,2026-07-08,C015,Natalia Silva,Cali,Hogarrr,Impresora HP,2,620000,Transferencia,Cancelada,natalia.silva@gmail.com
+V0215,2026-07-29,C014,Felipe Herrera,Bogota,Hogar,Microondas,3,450000,Tarjeta,Completada,correo_sin_arroba.com
+V0206,2026-07-06,C013,Maria Castillo,armenia,Hogar,Microondas,1,450000,Efectivo,Completada,maria.castillo@gmail.com
+V0223,2026-01-11,C011,Daniela Rojas,Pasto,Tecnologia,Audifonos Sony,5,210000,Tarjeta,Cancelada,daniela.rojas@gmail.com
+V0607,2026-01-07,C009,Valentina Lopez,Bogota,Tecnologia,Mouse Logitech,1,45000,Efectivo,Completada,valentina.lopez@gmail.com
+V0322,2026-06-11,C013,Maria Castillo,Armenia,Tecnologia,Audifonos Sony,1,210000,Nequi,Pendiente,maria.castillo@gmail.com
+V0641,2026-03-18,C005,Sofia Martinez,Bogota,Tecnologia,Portatil Lenovo,4,2800000,Tarjeta,Pendiente,sofia.martinez@gmail.com
+V0307,2026-08-30,C003,Camila Ruiz,Cali,Tecnologia,Mouse Logitech,3,45000,Efectivo,Pendiente,camila.ruiz@gmail.com
+V0525,2026-06-01,C001,Ana Torres,Pasto,Hogar,Microondas,1,450000,Transferencia,Completada,ana.torres@gmail.com
+V_DUP_09,2026-03-12,C006,Diego Castro,Pasto,Hogar,Cafetera,3,95000,Transferencia,Completada,diego.castro@gmail.com
+V0142,2026-03-06,C005,Sofia Martinez,Bogota,Tecnologia,Mouse Logitech,5,50000000,Nequi,Completada,sofia.martinez@gmail.com
+V0137,2026-08-21,C009,Valentina Lopez,Bogota,Hogar,Cafetera,3,95000,Nequi,Cancelada,valentina.lopez@gmail.com
+V0649,2026-04-30,C006,Diego Castro,Pasto,Tecnologia,Webcam Logitech,5,180000,Efectivo,Completada,cliente.gmail.com
+V0302,fecha_invalida,C002,Luis Gomez,Bogota,Tecnologia,Webcam Logitech,,180000,Transferencia,Pendiente,luis.gomez@gmail.com
+V0352,2026-03-05,C009,Valentina Lopez,Bogota,Hogar,Licuadora Oster,1,165000,Efectivo,Cancelada,valentina.lopez@gmail.com
+V0408,2026-01-20,C015,Natalia Silva,Cali,Tecnologia,SSD 1TB,3,380000,  Tarjeta  ,Cancelada,natalia.silva@gmail.com
+V0281,2026-02-13,C002,Luis Gomez,bogota,Tecnologia,Webcam Logitech,3,180000,Efectivo,Completada,correo_sin_arroba.com
+V0255,2026-01-26,C003,Camila Ruiz,Cali,Tecnologia,Webcam Logitech,5,180000,Tarjeta,Cancelada,camila.ruiz@gmail.com
+V0429,2026-08-01,C008,Mateo Sanchez,Medellin,Tecnologia,Monitor Samsung,5,750000,Transferencia,Pendiente,mateo.sanchez@gmail.com
+V0394,2026-06-12,C012,Andres Vargas,Manizales,Tecnologia,Audifonos Sony,4,210000,Transferencia,Cancelada,andres.vargas@gmail.com
+V0613,2026-06-17,C014,Felipe Herrera,Bogota,Tecnologia,Portatil Lenovo,3,2800000,Tarjeta,Pendiente,felipe.herrera@gmail.com
+V0330,2026-08-07,C005,Sofia Martinez,Bogota,Tecnologia,Portatil Lenovo,4,2800000,Efectivo,Pendiente,sofia.martinez@gmail.com
+V0397,2026-02-10,C005,  Sofia Martinez  ,Bogota,Tecnologia,Mouse Logitech,3,45000,Nequi,Cancelada,sofia.martinez@gmail.com
+V0107,2026-04-23,C014,Felipe Herrera,Bogota,Hogar,Producto_X,4,165000,Transferencia,Completada,felipe.herrera@gmail.com
+V0132,fecha_invalida,C012,Andres Vargas,Manizales,Hogar,Licuadora Oster,3,165000,Efectivo,Completada,andres.vargas@gmail.com
+V0178,2026-02-05,C009,Valentina Lopez,Bogotá,Tecnologia,SSD 1TB,-2,380000,Nequi,Cancelada,valentina.lopez@gmail.com
+V0593,2026-08-05,C012,Andres Vargas,Manizales,Oficina,Silla ergonomica,4,520000,Transferencia,Completada,andres.vargas@gmail.com
+V0182,2026-05-03,C015,Natalia Silva,Cali,Hogar,Cafetera,2,95000,Transferencia,Completada,usuario@
+V0664,2026-01-17,C010,Santiago Moreno,Cali,Hogar,Aspiradora,5,320000,Efectivo,Pendiente,santiago.moreno@gmail.com
+V0495,2026-02-13,C010,Santiago Moreno,Cali,Oficina,Producto_X,4,75000,Nequi,Completada,santiago.moreno@gmail.com
+V0600,fecha_invalida,C003,Camila Ruiz,Cali,Tecnologia,SSD 1TB,1,380000,Transferencia,Cancelada,camila.ruiz@gmail.com
+V0444,2026-08-13,C012,Andres Vargas,Manizales,Tecnologia,Mouse Logitech,4,45000,Efectivo,Pendiente,andres.vargas@gmail.com
+V0567,2026-05-26,C008,Mateo Sanchez,Medellin,Tecnologia,Portatil Lenovo,3,2800000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0050,2026-09-15,C001,Ana Torres,Pasto,Oficina,Escritorio,4,680000,Neq,Completada,
+V0544,2026-08-19,C003,Camila Ruiz,Cali,Tecnologia,Monitor Samsung,3,750000,Tarjeta,Cancelada,camila.ruiz@gmail.com
+V0005,2026-03-23,C010,Santiago Moreno,Cali,Tecnologia,Portatil Lenovo,1,2800000,Transferencia,Cancelada,cliente.gmail.com
+V0494,2026-08-10,C006,Diego Castro,Pasto,Oficina,Silla ergonomica,4,520000,Efectivo,Pendiente,diego.castro@gmail.com
+V0138,2026-04-09,C005,Sofia Martinez,Bogota,Oficna,Audifonos Sony,1,210000,Nequi,Completada,sofia.martinez@gmail.com
+V0517,2026-03-20,C005,Sofia Martinez,Bogota,Tecnologia,Audifonos Sony,3,210000,Transferencia,Cancelada,sofia.martinez@gmail.com
+V0604,2026-09-12,C012,Andres Vargas,Manizales,Oficina,Escritorio,1,680000,Transferencia,Pendiente,andres.vargas@gmail.com
+V0624,2026-05-30,C011,Daniela Rojas,Pasto,Tecnologia,Monitor Samsung,2,750000,Nequi,Cancelada,daniela.rojas@gmail.com
+V0462,2026-05-14,C011,Daniela Rojas,Pasto,Hogar,Cafetera,3,95000,Nequi,Pendiente,daniela.rojas@gmail.com
+V0127,2026-05-18,C014,Felipe Herrera,Bogota,Tecnologia,SSD 1TB,5,380000,Tarjta,Completada,felipe.herrera@gmail.com
+V0603,2026-09-26,C013,Maria Castillo,Armenia,hogar,Aspiradora,3,320000,Tarjeta,Cancelada,maria.castillo@gmail.com
+V0048,2026-09-07,C005,Sofia Martinez,Bogota,Hogar,Aspiradora,5,320000,Efectivo,Completada,sofia.martinez@gmail.com
+V0425,2026-02-27,C012,Andres Vargas,Manizales,Hogar,Cafetera,1,95000,tarjeta,Pendiente,andres.vargas@gmail.com
+V0111,2026-08-25,C011,Daniela Rojas,,Hogar,Aspiradora,2,320000,Bitcoin,Completada,daniela.rojas@gmail.com
+V0347,2026-02-14,C013,Maria Castillo,Armenia,Oficina,Silla ergonomica,2,520000,Tarjeta,Cancelada,maria.castillo@gmail.com
+V0196,2026-04-29,C015,Natalia Silva,Cali,Oficina,Escritorio,2,680000,Transferencia,Pendiente,natalia.silva@gmail.com
+V0469,2026-08-24,C011,Daniela Rojas,Pasto,Tecnologia,SSD 1TB,4,380000,Efectivo,Pendiente,daniela.rojas@gmail.com
+V0221,2026-07-08,C014,Felipe Herrera,Bogota,Hogar,Cafetera,1,95000,Nequi,Completada,felipe.herrera@gmail.com
+V0403,2026-03-22,C013,Maria Castillo,Armenia,Tecnologia,Monitor Samsung,1,750000,Transferencia,Pendiente,maria.castillo@gmail.com
+V0124,2026-02-24,C014,Felipe Herrera,Bogota,Hogar,Aspiradora,4,320000,Transferencia,Cancelada,felipe.herrera@gmail.com
+V0193,2026-07-03,C013,Maria Castillo,Armenia,Tecnlogia,Mouse Logitech,3,N/A,Nequi,Cancelada,maria.castillo@gmail.com
+V0201,2026-06-01,C010,Santiago Moreno,Cali,Hogar,Cafetera,5,95000,Nequi,Completada,santiago.moreno@gmail.com
+V0626,2026-04-14,C005,Sofia Martinez,Bogota,Tecnologia,Producto desconocido,1,210000,Efectivo,Pendiente,sofia.martinez@gmail.com
+V0261,2026-08-09,C002,Luis Gomez,Bogota,Tecnologia,Mouse Logitech,4,45000,Efectivo,Completada,luis.gomez@gmail.com
+V0110,2026-07-21,C010,Santiago Moreno,Cali,Oficina,Silla ergonomica,1,520000,Tarjeta,Completada,santiago.moreno@gmail.com
+V0420,2026-06-09,C007,Laura Rodriguez,Cali,Oficina,Lampara LED,diez,75000,Tarjeta,Completad,laura.rodriguez@gmail.com
+V0144,2026-05-26,C014,Felipe Herrera,Bogota,Tecnologia,Mouse Logitech,5,0,Transferencia,Cancelada,felipe.herrera@gmail.com
+V0505,2026-03-27,C008,Mateo Sanchez,Medellin,Tecnologia,Monitor Samsung,1,750000,,Cancelada,mateo.sanchez@gmail.com
+V0169,2026-07-31,C014,Felipe Herrera,Bogota,Oficina,Silla ergonomica,4,520000,Tarjeta,Completada,felipe.herrera@gmail.com
+V0047,2026-07-19,C003,Camila Ruiz,Cali,OTRO,Aspiradora,1,150000000,Nequi,Cancelada,camila.ruiz@gmail.com
+V0109,2026-03-26,C011,Daniela Rojas,Pasto,Oficina,Lampara LED,4,75000,Transferencia,completada,daniela.rojas@gmail.com
+V0383,2026-06-19,C014,Felipe Herrera,bogota,Tecnologia,Mouse Logitech,3,45000,Tarjeta,Cancelada,felipe.herrera@gmail.com
+V0535,2026-02-22,C013,Maria Castillo,Armenia,Tecnologia,SSD 1TB,1,380000,Efectivo,Cancelada,maria.castillo@gmail.com
+V0561,2026-07-21,C006,Diego Castro,Pasto,Oficina,Impresora HP,2,620000,Neq,Completada,diego.castro@gmail.com
+V0299,2026-09-15,C013,  Maria Castillo  ,Armenia,Tecnologia,Portatil Lenovo,4,2800000,Transferencia,Completada,maria.castillo@gmail.com
+V0364,2026/02/24,C013,Maria Castillo,Armenia,Hogar,Cafetera,5,95000,Nequi,Completada,maria.castillo@gmail.com
+V0660,2026-08-12,C006,Diego Castro,Pasto,Tecnologia,Monitor Samsung,50,750000,Transferencia,Pendiente,diego.castro@gmail.com
+V0003,2026-04-30,C001,Ana Torres,Pasto,Tecnologia,Teclado Redragon,2,120000,Tarjeta,Pendiente,ana.torres@gmail.com
+V0228,fecha_invalida,C014,Felipe Herrera,Bogota,Tecnologia,Mouse Logitech,2,45000,Nequi,Completada,felipe.herrera@gmail.com
+V0100,2026-09-24,C014,Felipe Herrera,Bogota,Oficina,Lampara LED,3,75000,Transferencia,  Pendiente  ,felipe.herrera@gmail.com
+V0117,2026-04-22,C999,Mateo Sanchez,Medellin,Oficina,Lampara LED,1,75000,Transferencia,Pendiente,mateo.sanchez@gmail.com
+V0464,2026-06-10,C015,Natalia Silva,Cali,Tecnologia,Audifonos Sony,3,210000,Transferencia,Completada,natalia.silva@gmail.com
+V0161,2026-05-09,C012,Andres Vargas,Manizales,Hogar,Cafetera,5,95000,Tarjeta,Completada,andres.vargas@gmail.com
+V0485,2026-02-18,C011,Daniela Rojas,Pasto,Tecnologia,Webcam Logitech,3,180000,Tarjeta,  Completada  ,daniela.rojas@gmail.com
+V0615,2026-05-05,C013,Maria Castillo,Armenia,Tecnologia,Portatil Lenovo,5,N/A,Transferencia,Cancelada,maria.castillo@gmail.com
+V0635,2026-03-08,C014,Felipe Herrera,Bogota,Tecnologia,Webcam Logitech,2,180000,Efectivo,Cancelada,felipe.herrera@gmail.com
+V0574,2026-08-08,C005,Sofia Martinez,Bogota,Tecnologia,SSD 1TB,2,380000,Tarjeta,Pendiente,sofia.martinez@gmail.com
+V0340,08-17-2026,C002,Luis Gomez,Bogota,Tecnologia,Portatil Lenovo,3,2800000,,Pendiente,luis.gomez@gmail.com
+V0466,2026-08-02,C009,Valentina Lopez,Bogota,Hogar,Licuadora Oster,5,165000,Nequi,Completada,valentina.lopez@gmail.com
+V0481,2026-04-26,C008,Mateo Sanchez,Medellin,Oficina,Escritorio,2,680000,Nequi,Pendiente,mateo.sanchez@gmail.com
+V0056,2026-08-23,C003,Camila Ruiz,Cali,Oficina,Lampara LED,3,75000,Nequi,Completada,camila.ruiz@gmail.com
+V0373,2026-07-07,C012,Andres Vargas,Manizales,Hogar,Cafetera,4,95000,Tarjeta,Cancelada,andres.vargas@gmail.com
+V0350,2026-09-22,C002,Luis Gomez,Bogota,Hogar,Microondas,4,450000,Nequi,Completada,luis.gomez@gmail.com
+V0468,2026-05-12,CLIENTE_X,Valentina Lopez,bogota,Oficina,Lampara LED,100,75000,Transferencia,Pendiente,valentina.lopez@gmail.com
+V0212,2026-05-15,C002,Luis Gomez,Bogota,Hogar,Microondas,3,450000,Transferencia,  Pendiente  ,luis.gomez@gmail.com
+V0576,2026-08-16,C010,Santiago Moreno,Cali,Tecnologia,Audifonos Sony,5,210000,Tarjeta,Completada,santiago.moreno@gmail.com
+V0521,2026-03-27,C011,Daniela Rojas,Pasto,Oficina,Lampara LED,3,75000,Tarjeta,Pendiente,daniela.rojas@gmail.com
+V0312,2026-01-09,C014,Felipe Herrera,Bogota,Hogar,Licuadora Oster,4,165000,Efectivo,Pendiente,felipe.herrera@gmail.com
+V0653,2026-03-14,C012,Andres Vargas,Manizales,Hogar,Cafetera,5,95000,Efectivo,Cancelada,andres.vargas@gmail.com
+V0634,2026-03-04,C002,Luis Gomez,Bogota,Tecnologia,Webcam Logitech,2,180000,Tarjeta,Completada,luis.gomez@gmail.com
+V0619,2026-02-23,C007,Laura Rodriguez,Cali,Oficina,Impresora HP,3,620000,Efectivo,Pendiente,laura.rodriguez@gmail.com
+V0094,2026-02-24,C003,Camila Ruiz,Cali,Oficina,  Lampara LED  ,1,75000,Transferencia,Completada,camila.ruiz@gmail.com
+V0001,2026-05-21,C011,Daniela Rojas,Pasto,Tecnologia,Teclado Redragon,1,120000,Efectivo,Completada,daniela.rojas@gmail.com
+V0563,2026-07-26,C002,Luis Gomez,Bogota,Oficina,Lampara LED,1,75000,Nequi,Pendiente,luis.gomez@gmail.com
+V0571,2026-06-04,C007,Laura Rodriguez,Cali,Tecnologia,Audifonos Sony,2,210000,Efectivo,Cancelada,laura.rodriguez@gmail.com
+V0037,2026-09-21,C014,Felipe Herrera,Bogota,Hogar,Cafetera,1,95000,Efectivo,Cancelada,felipe.herrera@gmail.com
+V0423,2026-04-22,C009,Valentina Lopez,Bogota,Hogar,Licuadora Oster,4,165000,Efectivo,Pendiente,valentina.lopez@gmail.com
+V0414,2026-08-07,C014,Felipe Herrera,BOGOTA,Oficina,Lampara LED,4,2500000.99,Nequi,Completada,usuario@
+V0106,2026-06-30,C007,Laura Rodriguez,Cali,Hogar,Microondas,1,450000,Nequi,Cancelada,laura.rodriguez@gmail.com
+V0019,2026-03-12,C007,Laura Rodriguez,Cali,Hogar,Cafetera,2,95000,Transferencia,Completada,laura.rodriguez@gmail.com
+V_DUP_05,2026-06-11,C013,Maria Castillo,Armenia,Tecnologia,Audifonos Sony,1,210000,Nequi,Pendiente,maria.castillo@gmail.com
+V0510,2026-03-11,C014,Felipe Herrera,Bogota,Oficina,Impresora HP,5,2500000.99,Nequi,Cancelada,felipe.herrera@gmail.com
+V0122,2026-01-22,C010,Santiago Moreno,Cali,Tecnologia,Webcam Logitech,1,180000,Nequi,Pendiente,santiago.moreno@gmail.com
+V0324,2026-05-27,C013,Maria Castillo,Armenia,Oficina,Lampara LED,2,75000,Nequi,Completada,sin_correo
+V0458,2026-06-05,C014,Felipe Herrera,Bogota,Hogar,Licuadora Oster,,165000,Tarjeta,Completada,felipe.herrera@gmail.com
+V0511,2026-09-03,C010,Santiago Moreno,Cali,Tecnologia,SSD 1TB,2,380000,Nequi,Completada,santiago.moreno@gmail.com
+V0091,2026-05-06,C003,Camila Ruiz,Cali,Tecnologia,Mouse Logitech,1,45000,,Pendiente,usuario@
+V0459,2026-09-03,C015,Natalia Silva,Cali,Tecnologia,Audifonos Sony,1,210000,Efectivo,Pendiente,natalia.silva@gmail.com
+V0587,2026-05-03,C007,Laura Rodriguez,Cali,Tecnologia,Portatil Lenovo,1,2800000,Transferencia,Cancelada,laura.rodriguez@gmail.com
+V0455,2026-01-27,C002,Luis Gomez,Bogota,Oficina,Silla ergonomica,2,520000,Bitcoin,Cancelada,luis.gomez@gmail.com
+V0471,2026-01-31,C015,Natalia Silva,Cali,Hogar,Licuadora Oster,5,165000,Tarjeta,Completada,natalia.silva@gmail.com
+V0081,2026-04-11,C007,Laura Rodriguez,Cali,Tecnologia,Mouse Logitech,5,45000,Nequi,Cancelada,laura.rodriguez@gmail.com
+V0241,2026-03-20,C011,Daniela Rojas,Pasto,Tecnologia,Portatil Lenovo,3,2800000,Transferencia,Completada,daniela.rojas@gmail.com
+V0413,2026-04-09,C006,Diego Castro,Pasto,Tecnologia,Webcam Logitech,3,180000,Efectivo,Pendiente,diego.castro@gmail.com
+V0388,2026-03-19,C008,Mateo Sanchez,Medellin,Hogar,Cafetera,4,95000,,Pendiente,mateo.sanchez@gmail.com
+V0659,2026-02-21,C006,Diego Castro,Pasto,Tecnologia,SSD 1TB,-2,380000,Nequi,Cancelada,diego.castro@gmail.com
+V0564,2026-08-21,C015,Natalia Silva,Cali,Hogar,Licuadora Oster,3,165000,Transferencia,Cancelada,natalia.silva@gmail.com
+V0229,fecha_invalida,C010,Santiago Moreno,Cali,Hogar,Cafetera,1,95000,Nequi,Completada,santiago.moreno@gmail.com
+V0520,2026-02-13,C015,Natalia Silva,Cali,Tecnologia,Webcam Logitech,5,180000,Tarjeta,Completada,natalia.silva@gmail.com
+V0052,2026-03-03,C014,Felipe Herrera,bogota,Tecnologia,Audifonos Sony,100,210000,Efectivo,Pendiente,felipe.herrera@gmail.com
+V0285,2026-05-26,C002,Luis Gomez,Bogota,Oficina,Silla ergonomica,4,520000,Nequi,Pendiente,luis.gomez@gmail.com
+V0339,2026-09-23,C012,Andres Vargas,Manizales,Tecnologia,Monitor Samsung,4,750000,Transferencia,Pendiente,andres.vargas@gmail.com
+V0247,2026-02-25,C011,Daniela Rojas,Pasto,Hogar,Microondas,2,2500000.99,Nequi,Pendiente,daniela.rojas@gmail.com
