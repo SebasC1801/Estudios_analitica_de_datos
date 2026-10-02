@@ -84,6 +84,7 @@ Resultado: **12.030 → 11.758** registros limpios; **9.152** con estado `Entreg
 
 ### Notas / dudas
 
-- **P1 y P2** estaban poco legibles en la foto; usé las opciones que dictaste. En P2 la opción A (1.76) no se leyó con certeza; el resultado 1.70 coincide con la opción B.
+- **P2:** opciones A 1.76, B 1.70, C 1.02, D 1.38. El resultado es 1.70, que coincide exactamente con la **B**.
+- **P6:** opciones A 1.518.048, B 245.000, C 525.000, D 385.000. Sin descuento da 1.518.048 (**A**); con descuento daria 1.418.791, que no coincide con ninguna.
 - **P10:** Retail y Pyme están muy cerca (4.816 vs 4.793 mil millones). La respuesta depende de aplicar bien la limpieza, así que vale revisar esa pregunta.
 - **P1, P3, P7:** los nombres de ciudad/producto salen bien gracias a la normalización (sin ella, `bogota`, `Laptop Pro14`, etc. se contarían aparte).
