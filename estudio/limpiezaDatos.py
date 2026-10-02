@@ -52,14 +52,89 @@ td.select([
 
 #solucionar errores
 #casos de string en variables que deben ser tipo int
-td.withColumn(
-    "cantidad_num",
-    col("cantidad").cast("int")
-).filter(
-    col("cantidad_num").isNull() |
-    (col("cantidad_num") <= 0)
-).show(50)
+#td.withColumn("cantidad_num",expr("try_cast(cantidad as int)")).filter(col("cantidad_num").isNull() | (col("cantidad_num") <= 0)).select("id_venta","cantidad","cantidad_num")#.show(50)#con esto todos los valores string,NA y demas se convertiran en nulos
 
-# la siguiente consulta es para verificar valores negativos, para ello se requiere solo tener el tipado int en la variable
-#si no tiene int se debe hacer la validacion anterior
-#td.filter(col("cantidad").cast("int") <= 0).show(50, truncate=False)
+#aqui vamos a reescribir la columna de cantidad con los valores limpios en entero incluyendo negativos
+td = td.withColumn("cantidad",expr("try_cast(cantidad as int)"))#try_cast cambia el tipado de string a int
+
+#td.select("id_venta", "cantidad").show(20)#al imprimir todo saldra como enteros pero tambien con negativos
+
+td = td.filter(col("cantidad").isNotNull() & (col("cantidad") > 0))#aqui sacamos los valores nulos y menores a 0 ccreando la nueva linea limpia 
+
+# ahora todos los datos son positivos validos
+#td.select("cantidad").distinct().show()
+
+#filtrado de precio unitario
+
+#verificacion
+#td.select("precio_unitario").distinct().show()
+td.withColumn(
+    "precio_num",
+    expr("try_cast(precio_unitario as double)")
+).filter(
+    col("precio_num").isNull() |
+    (col("precio_num") <= 0)
+).select(
+    "id_venta",
+    "precio_unitario",
+    "precio_num"
+)#.show(50, truncate=False)
+
+#reescritura de la columna
+td = td.withColumn(
+    "precio_unitario",
+    expr("try_cast(precio_unitario as double)")
+)
+#eliminacion de valores invalidos
+td = td.filter(
+    col("precio_unitario").isNotNull() &
+    (col("precio_unitario") > 0)
+)
+#verificacion de las variables verdaderas
+#td.select("precio_unitario").distinct().show(truncate=False)
+
+
+#verificacion de datos en string
+#verificacion de datos en ciudad
+#cuando hay mas de 20 datos distintos es mejor usar este antes que distinct dado que retorna dato y cantidad repetida
+td.groupBy("ciudad").count().orderBy(col("ciudad")).show(50, truncate=False)
+
+td = td.withColumn(
+    "ciudad",
+    trim(col("ciudad"))
+)
+
+# eliminar espacios innecesarios "" / " " / " a "
+#como esto es una validacion universal se puede intentar con todas las que sean realmente string de una vez
+td = td.withColumn("nombre_cliente", trim(col("nombre_cliente")))
+td = td.withColumn("ciudad", trim(col("ciudad")))
+td = td.withColumn("categoria", trim(col("categoria")))
+td = td.withColumn("producto", trim(col("producto")))
+td = td.withColumn("metodo_pago", trim(col("metodo_pago")))
+td = td.withColumn("estado", trim(col("estado")))
+td = td.withColumn("email", trim(col("email")))
+
+#normalizacion de datos con minusculas
+td = td.withColumn(
+    "ciudad",
+    lower(col("ciudad"))
+)
+#tambien se puede con mayusculas usando upper, pero no siempre es necesario
+
+# validacion de nombres propios con mayuscula la primer letra y acentuaciones
+td = td.withColumn(
+    "ciudad",
+    when(lower(col("ciudad")).isin("bogota", "bogotá"), "Bogotá")
+    .when(lower(col("ciudad")).isin("pasto"), "Pasto")
+    .when(lower(col("ciudad")).isin("cali"), "Cali")
+    .when(lower(col("ciudad")).isin("medellin", "medellín"), "Medellín")
+    .when(lower(col("ciudad")).isin("armenia"), "Armenia")
+    .when(lower(col("ciudad")).isin("MANIZALES", "manizales"), "Manizales")
+    .otherwise(col("ciudad"))#es parte de la funcion when, se usa para evitar el retorno de nulos
+)
+#eliminacion de nulos
+td.filter(col("ciudad").isNotNull() & (td.ciudad == "NULL"))
+
+td.groupBy("ciudad").count().orderBy(col("ciudad")).show(50, truncate=False)
+
+print("Registros después de limpiar cantidades y precios:", td.count())
